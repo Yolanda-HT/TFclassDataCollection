@@ -1,0 +1,5 @@
+# Ignore Mac generated resource fork files
+._*
+
+# Ignore Office tmps
+~$*

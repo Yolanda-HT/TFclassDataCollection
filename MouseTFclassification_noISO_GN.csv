@@ -1,0 +1,1664 @@
+Index,Name,ConsensusMotif,genename
+1,Superclass: Basic domains,,
+1.1,Class: Basic leucine zipper factors (bZIP),,
+1.1.1,Family: Jun-related factors,TGAGTCA,
+1.1.1.1,Subfamily: Jun factors,TGAGTCA,
+1.1.1.1.1,c-Jun,,
+1.1.1.1.2,JunB,,junb
+1.1.1.1.3,JunD,,jund
+1.1.1.2,Subfamily: NF-E2-like factors,GCTGAGTCA,
+1.1.1.2.1,NF-E2 p45,,
+1.1.1.2.2,NF-E2L1 (NRF1),,nrf1
+1.1.1.2.3,NF-E2L2 (NRF2),,nfe2l2
+1.1.1.2.4,NF-E2L3 (NRF3),,nfe2l3
+1.1.1.2.5,BACH1,,bach1
+1.1.1.2.6,BACH2,,bach2
+1.1.1.3,Subfamily: ATF-2-like factors,TGACGTCA,
+1.1.1.3.1,ATF-2,,atf2
+1.1.1.3.2,ATF-7,,atf7
+1.1.1.3.3,CREB-5 (CRE-BPa),,creb5
+1.1.2,Family: Fos-related factors,(TGAGTCA),
+1.1.2.1,Subfamily: Fos factors,(TGAGTCA),
+1.1.2.1.1,c-Fos,,
+1.1.2.1.2,FosB,,fosb
+1.1.2.1.3,Fra-1,,
+1.1.2.1.4,Fra-2,,
+1.1.2.2,Subfamily: ATF-3-like factors,TGACGTCA,
+1.1.2.2.1,ATF-3,,atf3
+1.1.2.2.2,JDP-2,,jdp2
+1.1.3,Family: Maf-related factors,TGCTGACTCAGCA,
+1.1.3.1,Subfamily: Large Maf factors,TGCTGACTCAGCA,
+1.1.3.1.1,c-Maf,,
+1.1.3.1.2,MafA,,mafa
+1.1.3.1.3,MafB,,mafb
+1.1.3.1.4,Nrl,,nrl
+1.1.3.2,Subfamily: Small Maf factors,TGCTGACTCAGCA,
+1.1.3.2.1,MafF,,maff
+1.1.3.2.2,MafG,,mafg
+1.1.3.2.3,MafK,,mafk
+1.1.4,Family: B-ATF-related factors,TGAGTCA,
+1.1.4.0.1,B-ATF,,batf
+1.1.4.0.2,B-ATF-2,,batf2
+1.1.4.0.3,B-ATF-3,,batf3
+1.1.5,Family: XBP-1-related factors,GGATGACGTGTACA,
+1.1.5.0.1,XBP-1,,xbp1
+1.1.6,Family: ATF-4-related factors,TGACGTCA,
+1.1.6.0.1,ATF-4,,atf4
+1.1.6.0.2,ATF-5,,atf5
+1.1.7,Family: CREB-related factors,TGACGTCA,
+1.1.7.1,Subfamily: CREB-like factors,TGACGTCA,
+1.1.7.1.1,CREB (CREB-1),,creb1
+1.1.7.1.2,ATF-1,,atf1
+1.1.7.1.3,CREM,,crem
+1.1.7.2,Subfamily: CREB-3-like factors,TGACGTCA,
+1.1.7.2.1,"CREB-3 (Luman, LZIP)",,creb3
+1.1.7.2.2,CREB-3L1 (OASIS),,creb3l1
+1.1.7.2.3,CREB-3L2,,creb3l2
+1.1.7.2.4,CREB-3L3 (CREB-H),,creb3l3
+1.1.7.2.5,CREB-3L4 (AIBZIP),,creb3l4
+1.1.7.3,Subfamily: ATF-6 factors,TGACGTGG,
+1.1.7.3.1,ATF-6a,,
+1.1.7.3.2,ATF-6b,,atf6b
+1.1.7.4,Subfamily: CREBZF-like factors,TGACGTCA,
+1.1.7.4.1,"CREBZF (Zhangfei, ZF)",,crebzf
+1.1.7.5,Subfamily: CREBL2-like factors,TGACGTCA,
+1.1.7.5.1,CREBL2,,crebl2
+1.1.8,Family: C/EBP-related,ATTGCGCAAT,
+1.1.8.1,Subfamily: C/EBP,ATTGCGCAAT,
+1.1.8.1.1,C/EBPa,,cebpa
+1.1.8.1.2,C/EBPb(NF-IL6-1),,cebpb
+1.1.8.1.3,C/EBPg,,cebpg
+1.1.8.1.4,C/EBPdelta,,
+1.1.8.1.5,C/EBPepsilon,,
+1.1.8.1.6,DDIT3 (CHOP-10),,ddit3
+1.1.8.2,Subfamily: PAR factors,TTATGCAA,
+1.1.8.2.1,DBP,,dbp
+1.1.8.2.2,HLF,,hlf
+1.1.8.2.3,TEF,,tef
+1.1.8.2.4,NF-IL3 (E4BP4),,nfil3
+1.1.0,Family: ZIP only,,
+1.1.0.1,Subfamily: TSC22,,
+1.1.0.1.1,"TSC22D1 (TSC-22, Cerebral protein 2)",,tsc22d1
+1.1.0.1.2,TSC22D2 (TILZ4),,tsc22d2
+1.1.0.1.3,"TSC22D3 (DSIPI, GILZ)",,tsc22d3
+1.1.0.1.4,TSC22D4 (TILZ2),,tsc22d4
+1.1.0.2,Subfamily: UTF,,
+1.1.0.2.1,UTF1,,utf1
+1.2,Class: Basic helix-loop-helix factors (bHLH),,
+1.2.1,Family: E2A-related factors,CAGGTG,
+1.2.1.0.1,"E2A (TCF-3, ITF-1)",,tcf3
+1.2.1.0.2,"SEF2 (E2-2, TCF-4, ITF-2, MITF)",,mitf
+1.2.1.0.3,"HTF-4 (TCF-12, HEB)",,tcf12
+1.2.2,Family: MyoD / ASC-related factors,CAGGTG,
+1.2.2.1,Subfamily: Myogenic transcription factors,,
+1.2.2.1.1,MyoD (Myod1),,myod1
+1.2.2.1.2,"Myogenin (Myog, Myf-4)",,myog
+1.2.2.1.3,Myf-5,,myf5
+1.2.2.1.4,Myf-6 (MRF4),,myf6
+1.2.2.2,Subfamily: Achaete-Scute-like factors,,
+1.2.2.2.1,ASH-1 (ASCL1),,ascl1
+1.2.2.2.2,ASH-2 (ASCL2),,ascl2
+1.2.2.2.3,ASH-3 (ASCL3),,ascl3
+1.2.2.2.4,ASH-4 (ASCL4),,ascl4
+1.2.2.2.5,ASH-5 (ASCL5),,ascl5
+1.2.3,Family: Tal-related factors,CAGCTG,
+1.2.3.1,Subfamily: Tal / HEN-like factors,CAGCTG,
+1.2.3.1.1,"Tal-1 (SCL, TCL-5)",,tal1
+1.2.3.1.2,Tal-2,,tal2
+1.2.3.1.3,Lyl-1,,lyl1
+1.2.3.1.4,"HEN1 (NSCL-1, NHLH1)",,nhlh1
+1.2.3.1.5,"HEN2 (NSCL-2, NHLH2)",,nhlh2
+1.2.3.2,Subfamily: Twist-like factors,CGTCTG,
+1.2.3.2.1,"Twist-1 (H-Twist, M-Twist)",,twist1
+1.2.3.2.2,Twist-2 (Dermo-1),,twist2
+1.2.3.2.3,"HAND-1 (eHAND, Th1)",,hand1
+1.2.3.2.4,HAND-2 (dHAND),,hand2
+1.2.3.2.5,bHLH-EC2 (TCF-15),,tcf15
+1.2.3.2.6,Scx,,scx
+1.2.3.2.7,PTF-1a,,ptf1a
+1.2.3.2.8,FIGa,,
+1.2.3.3,Subfamily: Mesp-like factors,,
+1.2.3.3.1,Mesp-1,,mesp1
+1.2.3.3.2,Mesp-2,,mesp2
+1.2.3.3.3,TCF-23,,tcf23
+1.2.3.3.4,"ABF-1 (Musculin, MyoR, MSC)",,msc
+1.2.3.3.5,Pod-1 (TCF-21),,tcf21
+1.2.3.3.6,Mesogenin-1 (MSGN1),,msgn1
+1.2.3.4,Subfamily: Neurogenin / Atonal-like factors,CAGCTG,
+1.2.3.4.1,NeuroD1,,neurod1
+1.2.3.4.2,NeuroD2,,neurod2
+1.2.3.4.3,NeuroD4 (ATH-3),,neurod4
+1.2.3.4.4,NeuroD6 (ATH-2),,neurod6
+1.2.3.4.5,NGN-1 (NeuroD3),,
+1.2.3.4.6,"NGN-2 (Atoh4, NeuroG2)",,neurog2
+1.2.3.4.7,"NGN-3 (Atoh5, NeuroG3)",,neurog3
+1.2.3.4.8,ATH-1 (ATOH-1),,atoh1
+1.2.3.4.9,ATH-5 (ATOH-7),,atoh7
+1.2.3.4.10,ATH-6 (ATOH-8),,atoh8
+1.2.3.4.11,bHLHe22 (Beta3),,bhlhe22
+1.2.3.4.12,bHLHe23,,bhlhe23
+1.2.3.4.13,OLIGO1,,
+1.2.3.4.14,OLIGO2,,
+1.2.3.4.15,OLIGO3,,
+1.2.3.4.16,MIST1 (bHLHa15),,bhlha15
+1.2.3.4.17,Fer3L (Ferd3L),,ferd3l
+1.2.3.5,Subfamily: bHLHa9-like factors,,
+1.2.3.5.1,bHLHa9,,bhlha9
+1.2.4,Family: Hairy-related factors,CACGAG,
+1.2.4.1,Subfamily: Hairy-like factors,CACGAG,
+1.2.4.1.1,HES-1,,hes1
+1.2.4.1.2,HES-2,,hes2
+1.2.4.1.3,HES-3,,hes3
+1.2.4.1.5,HES-5,,hes5
+1.2.4.1.6,HES-6,,hes6
+1.2.4.1.7,HES-7,,hes7
+1.2.4.1.8,HEY-1,,hey1
+1.2.4.1.9,HEY-2,,hey2
+1.2.4.1.10,HEYL (HRT3),,heyl
+1.2.4.1.11,HELT,,helt
+1.2.4.1.12,"DEC1 (STRA-13, bHLHb2)",,stra13
+1.2.4.1.13,DEC2 (bHLHb3),,
+1.2.5,Family: PAS domain factors,CACGC,
+1.2.5.1,Subfamily: Ahr-like factors,CACGC,
+1.2.5.1.1,AhR,,ahr
+1.2.5.1.2,AhRR,,ahrr
+1.2.5.1.3,SIM1,,sim1
+1.2.5.1.4,SIM2,,sim2
+1.2.5.1.5,HIF-1a,,hif1a
+1.2.5.1.6,HIF-3a,,hif3a
+1.2.5.1.7,EPAS-1,,epas1
+1.2.5.1.8,NPAS-1,,npas1
+1.2.5.1.9,NPAS-3,,npas3
+1.2.5.2,Subfamily: Arnt-like factors,CACGTG,
+1.2.5.2.1,Arnt (HIF-1b),,arnt
+1.2.5.2.2,Arnt-2,,arnt2
+1.2.5.2.3,ArntL (Bmal1),,arntl
+1.2.5.2.4,ArntL2 (Bmal2),,arntl2
+1.2.5.2.5,CLOCK,,clock
+1.2.5.2.6,NPAS-2,,npas2
+1.2.5.3,Subfamily: NCoA factors,,
+1.2.5.3.1,NCoA-1 (SRC-1),,ncoa1
+1.2.5.3.2,NCoA-2,,ncoa2
+1.2.5.3.3,NCoA-3,,ncoa3
+1.2.5.4,Subfamily: NPAS-4,CACGA,
+1.2.5.4.1,NPAS-4,,npas4
+1.2.5.5,Subfamily: SOHLH-like factors,,
+1.2.5.5.1,SOHLH1 (TEB2),,sohlh1
+1.2.5.5.2,SOHLH2 (TEB1),,sohlh2
+1.2.5.5.3,"TCFL5 (Cha, E2BP-1)",,tcfl5
+1.2.6,Family: bHLH-ZIP factors,CACATG,
+1.2.6.1,Subfamily: TFE3-like factors,CACATG,
+1.2.6.1.1,TFE3 (TFEA),,tfe3
+1.2.6.1.2,TFEB,,tfeb
+1.2.6.1.3,TFEC,,tfec
+1.2.6.1.4,MiTF,,mitf
+1.2.6.2,Subfamily: USF factors,CACGTG,
+1.2.6.2.1,USF-1,,usf1
+1.2.6.2.2,USF-2,,usf2
+1.2.6.3,Subfamily: SREBP factors,ATCACCCCAC,
+1.2.6.3.1,SREBP-1 (SREBF1),,srebf1
+1.2.6.3.2,SREBP-2 (SREBF2),,srebf2
+1.2.6.4,Subfamily: AP-4,CAGCTG,
+1.2.6.4.1,AP-4,,
+1.2.6.5,Subfamily: Myc / Max factors,CACGTG,
+1.2.6.5.1,c-Myc,,
+1.2.6.5.2,N-Myc,,
+1.2.6.5.3,L-Myc-1,,
+1.2.6.5.5,Max,,max
+1.2.6.5.6,B-Myc,,bmyc
+1.2.6.6,Subfamily: Mondo-like factors,CACGTG,
+1.2.6.6.1,Mlx (Tcfl4),,mlx
+1.2.6.6.2,MondoA (Mlx-IP),,mlxip
+1.2.6.6.3,"MondoB (Mlx-IPL, WS-bHLH)",,mlxipl
+1.2.6.7,Subfamily: Mad-like factors,CACGTG,
+1.2.6.7.1,Mad1 (MXD1),,mxd1
+1.2.6.7.2,Mad3 (MXD3),,mxd3
+1.2.6.7.3,Mad4 (MXD4),,mxd4
+1.2.6.7.4,Mad5 (MGA) =6.5.5.0.2,,mga
+1.2.6.7.5,Mxi-1,,mxi1
+1.2.6.7.6,Mnt,,mnt
+1.2.8,Family: HLH domain only,,
+1.2.8.0.1,Id1,,id1
+1.2.8.0.2,Id2,,id2
+1.2.8.0.3,Id3,,id3
+1.2.8.0.4,Id4,,id4
+1.3,Class: Basic helix-span-helix factors (bHSH),,
+1.3.1,Family: AP-2,GCCTGAGGC,
+1.3.1.0.1,AP-2a,,
+1.3.1.0.2,AP-2b,,
+1.3.1.0.3,AP-2g,,
+1.3.1.0.4,AP-2delta,,
+1.3.1.0.5,AP-2epsilon,,
+None,,,
+None,,,
+2,Superclass: Zinc-coordinating DNA-binding domains,,
+2.1,Class: Nuclear receptors with C4 zinc fingers,,
+2.1.1,Family: Steroid hormone receptors (NR3),,
+2.1.1.1,Subfamily: GR-like receptors (NR3C),AGAACATGATGTTCT,
+2.1.1.1.1,Glucocorticoid receptor (GR) (NR3C1),,nr3c1
+2.1.1.1.2,Mineralocorticoid receptor (MR) (NR3C2),,nr3c2
+2.1.1.1.3,Progesterone receptor (PR) (NR3C3),,
+2.1.1.1.4,Androgen receptor (AR) (NR3C4),,ar
+2.1.1.2,Subfamily: ER-like receptors (NR3A&B),AGGTCACAGTGACCT,
+2.1.1.2.1,"Estrogen receptora(ERa) (ESR1, NR3A1)",,esr1
+2.1.1.2.2,Estrogen receptorb(ERb) (NR3A2),,
+2.1.1.2.3,"ERR1 (ERRa, ESRRA) (NR3B1)",,esrra
+2.1.1.2.4,"ERR2 (ERRb, ESRRB) (NR3B2)",,esrrb
+2.1.1.2.5,"ERR3 (ERRg, ESRRG) (NR3B3)",,esrrg
+2.1.2,Family: Thyroid hormone receptor-related factors (NR1),,
+2.1.2.1,Subfamily: Retinoic acid receptors (NR1B),TGACCTTTGACCT,
+2.1.2.1.1,RAR-a(NR1B1),,rara
+2.1.2.1.2,RAR-b(NR1B2),,rarb
+2.1.2.1.3,RAR-g(NR1B3),,rarg
+2.1.2.2,Subfamily: Thyroid hormone receptors (NR1A),TGACCTGAAATGACCT,
+2.1.2.2.1,T3R-a(THRA) (NR1A1),,thra
+2.1.2.2.2,T3R-b(NR1A2),,
+2.1.2.3,Subfamily: Rev-ErbA (NR1D),TGACCTAGTGACCT,
+2.1.2.3.1,Rev-ErbAa(NR1D1),,nr1d1
+2.1.2.3.2,Rev-ErbAb(NR1D2),,nr1d2
+2.1.2.4,Subfamily: Vitamin D receptor (NR1I),TGACCTTCGTGACCT,
+2.1.2.4.1,VDR (NR1I1),,vdr
+2.1.2.4.2,PXR (NR1I2),,nr1i2
+2.1.2.4.3,CAR (NR1I3),,nr1i3
+2.1.2.5,Subfamily: PPAR (NR1C),TGACCTTTGACCT,
+2.1.2.5.1,PPARa(NR1C1),,ppara
+2.1.2.5.2,PPARb(PPARdelta) (NR1C2),,
+2.1.2.5.3,PPARg(NR1C3),,pparg
+2.1.2.6,Subfamily: ROR (NR1F),TGACCTACTTAT,
+2.1.2.6.1,RORa(NR1F1),,rora
+2.1.2.6.2,RORb(NR1F2),,rorb
+2.1.2.6.3,RORg(NR1F3),,
+2.1.2.7,Subfamily: LXR (NR1H),TGACCTCTACTGACCT,
+2.1.2.7.1,LXRa(NR1H3),,nr1h3
+2.1.2.7.2,LXRb(NR1H2),,nr1h2
+2.1.2.7.3,FXR (NR1H4),,nr1h4
+2.1.3,Family: RXR-related receptors (NR2),(TGACCT),
+2.1.3.1,Subfamily: Retinoid X receptors (NR2B),(TGACCT),
+2.1.3.1.1,RXRa(NR2B1),,rxra
+2.1.3.1.2,RXRb(NR2B2),,rxrb
+2.1.3.1.3,RXRg(NR2B3),,rxrg
+2.1.3.2,Subfamily: HNF-4 (NR2A),AGTCCAAAGTTCA,
+2.1.3.2.1,HNF-4a(NR2A1),,hnf4a
+2.1.3.2.2,HNF-4g(NR2A2),,hnf4g
+2.1.3.3,Subfamily: Tailless-like receptors (NR2E),TGACCTTTGACCT,
+2.1.3.3.1,Tlx (NR2E1),,nr2e1
+2.1.3.3.2,PNR (NR2E3),,nr2e3
+2.1.3.4,Subfamily: Testicular receptors (NR2C),TGACCTCTGACCT,
+2.1.3.4.1,TR2 (NR2C1),,nr2c1
+2.1.3.4.2,TR4 (NR2C2),,nr2c2
+2.1.3.5,Subfamily: COUP-like receptors (NR2F),TGACCTTTGACCT,
+2.1.3.5.1,COUP-TFI (NR2F1),,nr2f1
+2.1.3.5.2,COUP-TFII (NR2F2),,nr2f2
+2.1.3.5.3,EAR2 (NR2F6),,nr2f6
+2.1.4,Family: NGFI-B-related receptors (NR4),TGACCTTT,
+2.1.4.0.1,"NGFI-B (Nur77, NR4A1)",,nr4a1
+2.1.4.0.2,NURR1 (NR4A2),,nr4a2
+2.1.4.0.3,"NOR1 (NR4A3, TEC)",,tec
+2.1.5,Family: FTZ-F1-related receptors (NR5),TGACCTTG,
+2.1.5.0.1,FTZ-F1 (SF-1) (NR5A1),,nr5a1
+2.1.5.0.2,LRH-1 (NR5A2),,nr5a2
+2.1.6,Family: GCNF-related receptors (NR6),TGAACTTGACTTGA,
+2.1.6.0.1,GCNF (NR6A1),,nr6a1
+2.1.7,Family: DAX-related receptors (NR0),TGACCTT,
+2.1.7.0.1,DAX1 (NR0B1),,nr0b1
+2.1.7.0.2,SHP (NR0B2),,nr0b2
+2.2,Class: Other C4 zinc finger-type factors,,
+2.2.1,Family: GATA-type zinc fingers,,
+2.2.1.1,Subfamily: Two zinc-finger GATA factors,AGATAA,
+2.2.1.1.1,"GATA-1 (GF-1, EryF1, NF-E1)",,gata1
+2.2.1.1.2,GATA-2,,gata2
+2.2.1.1.3,GATA-3,,gata3
+2.2.1.1.4,GATA-4,,gata4
+2.2.1.1.5,GATA-5,,gata5
+2.2.1.1.6,GATA-6,,gata6
+2.2.1.2,Subfamily: Single GATA-type zinc-finger,AGATAA,
+2.2.1.2.1,GATAD1 (ODAG),,gatad1
+2.2.1.2.2,p66-a(GATAD2A),,gatad2a
+2.2.1.2.3,p66-b(GATAD2B),,gatad2b
+2.2.1.2.4,"RERE (ARG, ARP, ATN1L) =3.5.1.3.7",,rere
+2.2.1.2.5,MTA1 =3.5.1.3.4,,
+2.2.1.2.6,"MTA2 (MTA1L1, PID) =3.5.1.3.5",,mta2
+2.2.1.2.7,MTA3 =3.5.1.3.6,,
+2.2.1.2.8,ZGLP1 (GLP-1),,zglp1
+2.2.1.2.9,DNMT3A,,dnmt3a
+2.2.1.2.10,DNMT3B,,dnmt3b
+2.2.1.2.11,DNMT3L,,dnmt3l
+2.2.1.2.12,"ATRX (RAD54L, XH2)",,rad54l
+2.2.1.2.13,TRPS1 (GC79) =2.3.4.0.20,,trps1
+2.3,Class: C2H2 zinc finger factors,,
+2.3.1,Family: Three-zinc finger Krppel-related factors,,
+2.3.1.1,Subfamily: Sp1-like factors,GGGGCGGGG,
+2.3.1.1.1,Sp1,,sp1
+2.3.1.1.2,Sp2,,sp2
+2.3.1.1.3,Sp3,,sp3
+2.3.1.1.4,Sp4,,sp4
+2.3.1.1.5,Sp5,,sp5
+2.3.1.1.6,Sp6,,sp6
+2.3.1.1.7,Sp7,,sp7
+2.3.1.1.8,Sp8,,sp8
+2.3.1.1.9,Sp9,,sp9
+2.3.1.2,Subfamily: Krppel-like factors,CCACACCCT,
+2.3.1.2.1,KLF1 (EKLF),,klf1
+2.3.1.2.2,KLF2 (LKLF),,klf2
+2.3.1.2.3,KLF3 (BKLF),,klf3
+2.3.1.2.4,KLF4 (GKLF),,klf4
+2.3.1.2.5,"KLF5 (CKLF, IKLF, BTEB2)",,cklf
+2.3.1.2.6,"KLF6 (CPBP, BCD1)",,klf6
+2.3.1.2.7,KLF7 (UKLF),,klf7
+2.3.1.2.8,KLF8 (BKLF),,klf8
+2.3.1.2.9,KLF9 (BTEB1),,klf9
+2.3.1.2.10,KLF10 (TIEG1),,klf10
+2.3.1.2.11,"KLF11 (FKLF, TIEG2)",,klf11
+2.3.1.2.12,KLF12 (AP-2rep),,klf12
+2.3.1.2.13,"KLF13 (BTEB3, NSLP1)",,klf13
+2.3.1.2.14,KLF14 (BTEB5),,klf14
+2.3.1.2.15,KLF15 (KKLF),,klf15
+2.3.1.2.16,"KLF16 (BTEB4, NSLP2)",,klf16
+2.3.1.2.17,KLF17,,klf17
+2.3.1.3,Subfamily: EGR factors,GCGTGGGCG,
+2.3.1.3.1,"EGR1 (Krox-24, Zif268)",,egr1
+2.3.1.3.2,EGR2 (Krox-20),,egr2
+2.3.1.3.3,EGR3 (PILOT),,egr3
+2.3.1.3.4,EGR4,,egr4
+2.3.2,Family: Other factors with up to three adjacent zinc fingers,,
+2.3.2.1,Subfamily: Factors with 2-3 adjacent zinc fingers,TCCTGCTA,
+None,and a BTB/POZ domain,,
+2.3.2.1.1,ZBTB5 [2],,zbtb5
+2.3.2.1.2,ZBTB8B [2],,zbtb8b
+2.3.2.1.6,"ZBTB22 (ZNF297, BING1) [3]",,zbtb22
+2.3.2.1.7,"ZBTB32 (ZNF538, FAZF) [3]",,zbtb32
+2.3.2.1.8,ZBTB34 [3],,zbtb34
+2.3.2.1.9,ZBTB37 [3],,zbtb37
+2.3.2.1.10,"ZBTB43 (ZBTB22B, ZNF297B) [3]",,zbtb43
+2.3.2.1.11,"ZBTB46 (BTBD4, ZNF340) [2]",,zbtb46
+2.3.2.1.12,"ZBTB33 (KAISO, ZNF348) [3]",,zbtb33
+2.3.2.2,Subfamily: Factors with 2-3 adjacent zinc fingers,,
+None,and a KRAB domain,,
+2.3.2.3,Subfamily: Factors with 2-3 adjacent zinc fingers,,
+None,and a SCAN domain,,
+2.3.2.4,Subfamily: Other three adjacent zinc finger factors,,
+2.3.2.4.1,ZNF414 (Zfp414) [3],,zfp414
+2.3.2.4.2,ZNF511 (Zfp511) [3],,zfp511
+2.3.2.4.3,ZNF580 (Zfp580) [3],,zfp580
+2.3.2.4.5,ZNF740 (ZFP740) [3],,zfp740
+2.3.2.4.6,"ZFPM2 (ZNF89B, FOG2) =2.7.2.0.2[3]",,zfpm2
+2.3.2.4.7,OSR1 (ODD) [3],,osr1
+2.3.2.4.8,OVOL3 (OVL2L) [4],,ovol3
+2.3.2.4.9,AEBP2 [2],,aebp2
+2.3.3,Family: More than 3 adjacent zinc finger factors,,
+2.3.3.1,Subfamily: GLI-like factors,TGGGTGGTC,
+2.3.3.1.1,GLI1 [5],,gli1
+2.3.3.1.2,GLI2 [5],,gli2
+2.3.3.1.3,GLI3 [5],,gli3
+2.3.3.1.4,GLIS1 [5],,glis1
+2.3.3.1.5,GLIS2 (NKL) [5],,glis2
+2.3.3.1.6,GLIS3 (ZNF515) [5],,glis3
+2.3.3.1.7,ZIC1 (ZNF201) [5],,zic1
+2.3.3.1.8,ZIC2 [5],,zic2
+2.3.3.1.9,ZIC3 (ZNF203) [5],,zic3
+2.3.3.1.10,ZIC4 [5],,zic4
+2.3.3.1.11,ZIC5 [4],,zic5
+2.3.3.2,Subfamily: Snail-like factors,CACCTG,
+2.3.3.2.1,SNAI1 [4],,snai1
+2.3.3.2.2,SNAI2 (SLUG) [5],,snai2
+2.3.3.2.3,SNAI3 (ZNF293) [5],,snai3
+2.3.3.2.4,SCRT1 [5],,scrt1
+2.3.3.2.5,SCRT2 [5],,scrt2
+2.3.3.3,Subfamily: ZFP91-like factors,,
+2.3.3.3.1,ZFP91 (ZNF757) [5],,zfp91
+2.3.3.3.2,ZNF692 [5],,
+2.3.3.3.3,"ZNF276 (ZFP276, ZNF477) [5]",,zfp276
+2.3.3.3.4,ZNF653 (ZIP67) [5],,
+2.3.3.4,Subfamily: ZNF280-like zinc finger factors,,
+2.3.3.4.2,"ZNF280B (SUHW2, ZNF279, ZNF632, Zfp280b) [4]",,zfp280b
+2.3.3.4.3,"ZNF280C (SUHW3, ZNF633, Zfp280c) [5]",,zfp280c
+2.3.3.4.4,"ZNF280D (SUHW4, ZNF634) [5]",,
+2.3.3.4.5,"POGZ (SUHW5, ZNF280E, ZNF635) [9]",,pogz
+2.3.3.5,Subfamily: ZSCAN5-like zinc finger factors,,
+2.3.3.6,Subfamily: ZNF75-like zinc finger factors,,
+2.3.3.7,Subfamily: ZNF705 factors,,
+2.3.3.8,Subfamily: ZBTB7 factors,GACCCC,
+2.3.3.8.1,ZBTB7A [4],,zbtb7a
+2.3.3.8.2,ZBTB7B [4],,zbtb7b
+2.3.3.8.3,ZBTB7C [4],,zbtb7c
+2.3.3.9,Subfamily: YY1-like factors,GCCATCTTG,
+2.3.3.9.1,YY1 [4],,yy1
+2.3.3.9.2,YY2 (ZNF631) [4],,yy2
+2.3.3.9.3,"ZFP42 (REX1, ZNF754) [4]",,zfp42
+2.3.3.10,Subfamily: ZNF24-like factors,TCAT,
+2.3.3.10.1,"ZNF24 (KOX17, ZNF191, ZSCAN3) [4]",,
+2.3.3.10.6,"ZKSCAN1 (KOX18, ZNF139, ZNF36) [6]",,zkscan1
+2.3.3.11,Subfamily: ZBTB6-like factors,,
+2.3.3.11.1,"ZBTB6 (ZID, ZNF482) [4]",,zbtb6
+2.3.3.11.2,ZBTB26 (ZNF481) [4],,zbtb26
+2.3.3.11.3,ZBTB12 (NG35) [4],,zbtb12
+2.3.3.12,Subfamily: PRDM1-like factors,AAGTGAAAGT,
+2.3.3.12.1,PRDM1 (BLIMP1) [4],,prdm1
+2.3.3.13,Subfamily: ZNF148-like factors,CACCC,
+2.3.3.13.1,"ZNF148 (ZBP89, Zfp148) [4]",,zfp148
+2.3.3.13.2,"ZNF281 (GZP1, ZBP99, Zfp281) [4]",,zfp281
+2.3.3.14,Subfamily: ZBTB20-like factors,,
+2.3.3.14.1,"ZBTB20 (DPZF, ZNF288, HOF) [5]",,zbtb20
+2.3.3.14.2,ZBTB45 (ZNF499) [4],,zbtb45
+2.3.3.15,Subfamily: ZNF524-like factors,,
+2.3.3.15.1,ZNF524 (Zfp524) [4],,zfp524
+2.3.3.16,Subfamily: ZNF238-like factors,AACATCTGGA,
+2.3.3.16.1,"ZNF238 (RP58, TAZ1, ZBTB18) [4]",,zbtb18
+2.3.3.16.2,ZBTB42 [4],,zbtb42
+2.3.3.17,Subfamily: OVOL-factors,GCGGGGG,
+2.3.3.17.1,OVOL1 [4],,ovol1
+2.3.3.17.2,"OVOL2 (mOVO, ZNF339) [4]",,ovol2
+2.3.3.18,Subfamily: ZNF56-like factors,,
+2.3.3.19,Subfamily: ZNF500-like factors,,
+2.3.3.19.3,ZKSCAN2 (ZNF694) [6],,zkscan2
+2.3.3.19.4,ZSCAN29 (ZNF690) [6],,zscan29
+2.3.3.20,Subfamily: FEZF factors,,
+2.3.3.20.1,FEZF1 (ZNF312B) [6],,fezf1
+2.3.3.20.2,"FEZF2 (FEZL, ZNF312) [6]",,fezf2
+2.3.3.21,Subfamily: GFI1 factors,AAATCACAGC,
+2.3.3.21.1,GFI1 (ZNF163) [6],,gfi1
+2.3.3.21.2,GFI1B [6],,gfi1b
+2.3.3.22,Subfamily: BCL6 factors,CTTTCTAGGAAT,
+2.3.3.22.1,"BCL6B (BAZF, ZNF62) [5]",,bcl6b
+2.3.3.22.2,"BCL6 (LAZ3, ZBTB27, ZNF51) [6]",,bcl6
+2.3.3.23,Subfamily: ZNF212-like factors,,
+2.3.3.24,Subfamily: MTF1-like factors,TGCACAC,
+2.3.3.24.1,MTF1 [6],,mtf1
+2.3.3.24.2,"ZNF410 (APA1, Zfp410) [5]",,zfp410
+2.3.3.25,Subfamily: PLAG factors,,
+2.3.3.25.1,PLAGL2 [6],,plagl2
+2.3.3.25.2,PLAG1 [7],,plag1
+2.3.3.25.3,"PLAGL1 (LOT1, ZAC) [7]",,plagl1
+2.3.3.26,Subfamily: ZKSCAN3-like factors,TGAGGGG,
+2.3.3.26.1,"ZKSCAN3 (ZFP47, ZNF306, ZNF309, ZSCAN13) [7]",,zkscan3
+2.3.3.26.2,"ZKSCAN4 (ZNF307, ZNF427) [7]",,zkscan4
+2.3.3.27,Subfamily: ZNF525-like factors,,
+2.3.3.28,Subfamily: ZNF76-like factors,CCCATCATGCCTTGC,
+2.3.3.28.1,"ZNF76 (ZNF523, Zfp523) [7]",,zfp523
+2.3.3.28.2,"ZNF143 (SBF, STAF) [7]",,
+2.3.3.29,Subfamily: ZNF652-like factors,,
+2.3.3.29.1,ZNF652 (ZFP652) [9],,zfp652
+2.3.3.30,Subfamily: ZNF350-like factors,TGGgttCAGactTTG,
+2.3.3.31,Subfamily: ZNF642-like factors,,
+2.3.3.31.4,ZNF583 [12],,
+2.3.3.32,Subfamily: ZNF679-like factors,,
+2.3.3.33,Subfamily: ZNF763-like factors,,
+2.3.3.34,Subfamily: ZNF3-like factors,,
+2.3.3.35,Subfamily: ZNF620-like factors,,
+2.3.3.36,Subfamily: ZNF324 factors,,
+2.3.3.37,Subfamily: ZNF362-like factors,,
+2.3.3.38,Subfamily: ZNF282-like factors,TCCACCCC,
+2.3.3.39,Subfamily: ZNF764-like factors,,
+2.3.3.39.3,ZNF771 [8],,
+2.3.3.40,Subfamily: ZNF177-like factors,,
+2.3.3.41,Subfamily: ZNF32-like factors,,
+2.3.3.41.1,"ZNF32 (KOX30, Zfp637) [7]",,zfp637
+2.3.3.41.2,ZIK1 (ZNF762) [9],,zik1
+2.3.3.42,Subfamily: ZNF773-like factors,,
+2.3.3.43,Subfamily: ZNF558-like factors,,
+2.3.3.44,Subfamily: ZNF302-like factors,,
+2.3.3.44.2,"ZNF2 (ZNF661, Zfp661) [9]",,zfp661
+2.3.3.45,Subfamily: ZNF562-like factors,,
+2.3.3.46,Subfamily: ZXD-factors,,
+2.3.3.46.2,ZXDB [10],,zxdb
+2.3.3.46.3,ZXDC (ZXDL) [10],,zxdc
+2.3.3.47,Subfamily: ZNF222-like factors,,
+2.3.3.48,Subfamily: ZNF736-like factors,,
+2.3.3.49,Subfamily: ZNF286 factors,,
+2.3.3.50,Subfamily: CTCF-like factors,,
+2.3.3.50.1,CTCF [11],,ctcf
+2.3.3.50.2,"CTCFL (CTCF-T, BORIS) [11]",,ctcfl
+2.3.3.51,Subfamily: ZNF366-like factors,,
+2.3.3.51.2,ZNF710 (Zfp710) [11],,zfp710
+2.3.3.52,Subfamily: ZNF322-like factors,,
+2.3.3.52.1,"ZNF322A (ZNF322, ZNF388, ZNF489, Zfp322A) [11]",,zfp322a
+2.3.3.53,Subfamily: ZNF548-like factors,,
+2.3.3.54,Subfamily: ZNF460-like factors,,
+2.3.3.55,Subfamily: ZNF146-like factors,,
+2.3.3.55.1,ZNF146 [10],,
+2.3.3.55.2,ZNF260 (ZFP260) [13],,zfp260
+2.3.3.56,Subfamily: ZNF214-like factors,,
+2.3.3.57,Subfamily: ZNF479-like factors,,
+2.3.3.58,Subfamily: ZNF180-like factors,,
+2.3.3.58.3,ZNF436 (Zfp46) [12],,zfp46
+2.3.3.58.6,"ZSCAN2 (ZFP29, ZNF854) [14]",,zscan2
+2.3.3.59,Subfamily: ZNF100-like factors,,
+2.3.3.59.3,"ZNF431 (Zfp431, Zfp923) [13]",,
+2.3.3.60,Subfamily: ZNF98-like factors,,
+2.3.3.61,Subfamily: ZNF343-like factors,,
+2.3.3.62,Subfamily: ZFP2-like factors,,
+2.3.3.62.1,"ZFP2 (ZNF751, Mkr2) [13]",,zfp2
+2.3.3.63,Subfamily: ZFP30-like factors,,
+2.3.3.63.1,ZFP30 (ZNF745) [13],,zfp30
+2.3.3.63.2,ZFP82 (ZNF545) [13],,zfp82
+2.3.3.63.3,ZFP14 (ZNF531) [13],,zfp14
+2.3.3.64,Subfamily: ZNF354A-like factors,,
+2.3.3.64.1,"ZNF354A (EZNF, HKL1, TCF17, Zfp354a) [13]",,zfp354a
+2.3.3.64.2,ZNF354B (Zfp354b) [13],,zfp354b
+2.3.3.65,Subfamily: ZFX/ZFY factors,AGGCCC,
+2.3.3.65.1,ZFX [13],,zfx
+2.3.3.65.2,ZFY-1 [13],,zfy1
+2.3.3.65.3,ZFY-2 [13],,zfy2
+2.3.3.66,Subfamily: ZNF689-like factors,,
+2.3.3.66.1,ZNF689 (Zfp689) [12],,zfp689
+2.3.3.66.2,ZNF672 (Zfp672) [14],,zfp672
+2.3.3.67,Subfamily: ZFN283-like factors,,
+2.3.3.68,Subfamily: ZFN81-like factors,,
+2.3.3.69,Subfamily: ZFN25-like factors,,
+2.3.3.69.3,ZFP37 [12],,zfp37
+2.3.3.70,Subfamily: ZFN26-like factors,,
+2.3.3.71,Subfamily: ZFN300-like factors,,
+2.3.3.72,Subfamily: ZFN813-like factors,,
+2.3.3.73,Subfamily: ZNF816A-like factors,,
+2.3.3.74,Subfamily: ZNF442-like factors,,
+2.3.3.75,Subfamily: ZNF432-like factors,,
+2.3.3.76,Subfamily: ZNF665-like factors,,
+2.3.3.77,Subfamily: ZNF595-like factors,,
+2.3.3.78,Subfamily: ZNF14-like factors,,
+2.3.3.79,Subfamily: ZNF841-like factors,,
+2.3.3.80,Subfamily: ZNF99-like factors,,
+2.3.3.0,Subfamily: unclassified,,
+2.3.3.0.1,"ZFP161 (ZBTB14, ZNF478, Zfp5)",CTACCTGCACAGTTCACGGA,zbtb14
+2.3.3.0.3,"ZNF496 (ZKSCAN17, Zfp496)",,zkscan17
+2.3.3.0.9,OSR2,,osr2
+2.3.3.0.13,"ZNF22 (KOX15, KROX26, Zfp422)",CAATG,zfp422
+2.3.3.0.17,ZFP41,,zfp41
+2.3.3.0.20,"ZNF18 (KOX11, ZKSCAN6, ZNF535, Zfp18, Zfp535)",,zkscan6
+2.3.3.0.21,WT1,CGCCCCCGC,wt1
+2.3.3.0.23,PRDM6 (PFM3),,prdm6
+2.3.3.0.24,"ZNF444 (EZF2, ZSCAN17, Zfp44)",,
+2.3.3.0.25,ZNF641 (Zfp641),,zfp641
+2.3.3.0.26,"ZNF746 (PARIS, Zfp746)",TATTTTT,zfp746
+2.3.3.0.28,"ZBTB44 (BTBD15, ZNF851)",,zbtb44
+2.3.3.0.31,"ZNF655 (VIK, Zfp655) [6]",,zfp655
+2.3.3.0.34,ZNF131 [6],,
+2.3.3.0.35,PRDM14 [6],GGTCTCTAA,prdm14
+2.3.3.0.37,ZNF575 (Zfp575) [6],,zfp575
+2.3.3.0.38,ZBTB49 [7],,zbtb49
+2.3.3.0.39,ZNF691 (Zfp691) [7],,zfp691
+2.3.3.0.40,"ZNF394 (ZKSCAN14, Zfp394, Zfp99) [7]",,zkscan14
+2.3.3.0.41,"ZNF449 (ZSCAN19, Zfp449) [7]",,zfp449
+2.3.3.0.42,"ZNF498 (ZSCAN25, Zfp498) [7]",,zscan25
+2.3.3.0.43,"ZSCAN30 (ZNF397OS, Zfp397OS) [7]",,zscan30
+2.3.3.0.47,"ZSCAN21 (ZFP38, ZNF38, Zipro1) [7]",,zscan21
+2.3.3.0.54,"MYNN (OSZF, ZBTB31) [8]",,mynn
+2.3.3.0.55,ZBTB24 (ZNF450) [8],,zbtb24
+2.3.3.0.57,ZFP92 [8],,zfp92
+2.3.3.0.60,"ZNF202 (ZKSCAN10, Zfp202) [8]",GGGGTGGGGT,zfp202
+2.3.3.0.69,"ZNF187 (ZSCAN26, SRE-ZBP, Zfp187) [8]",,zscan26
+2.3.3.0.70,"ZSCAN22 (HKR2, ZNF50) [8]",,zscan22
+2.3.3.0.72,ZFP1 (ZNF475) [8],,zfp1
+2.3.3.0.74,"ZBTB16 (PLZF, ZNF145) [9]",TAAAGTTTGATCTGTTC,zbtb16
+2.3.3.0.75,GTF3A (TFIIIA) [9],,gtf3a
+2.3.3.0.76,ZFP64 [9],,zfp64
+2.3.3.0.77,ZNF358 (Zfp358) [9],,zfp358
+2.3.3.0.79,"ZNF263 (FPM315, ZKSCAN12, Zfp263) [9]",GGGAGGAGG,zfp263
+2.3.3.0.81,"ZNF192 (ZKSCAN8, LD5-1, Zfp192) [9]",,zkscan8
+2.3.3.0.83,"ZNF239 (HOK-2, MOK-2, Zfp239) [9]",,zfp239
+2.3.3.0.84,"ZNF664 (ZFOC1, ZNF196, Zfp664) [9]",,zfp664
+2.3.3.0.92,"GZF1 (ZBTB23, ZNF336) [10]",TGCGCGTCTATA,gzf1
+2.3.3.0.93,"ZNF408 (PFM14, PRDM17, Zfp408) [10]",,zfp408
+2.3.3.0.94,ZNF648 (Zfp648) [10],,zfp648
+2.3.3.0.95,ZNF768 (Zfp768) [10],,zfp768
+2.3.3.0.101,ZNF483 (ZKSCAN16) [11],,zkscan16
+2.3.3.0.102,"ZBTB48 (HKR3, ZNF855) [11]",,zbtb48
+2.3.3.0.103,ZNF275 (Zfp275) [11],,zfp275
+2.3.3.0.114,ZNF354C (KID3) [11],CCACC,
+2.3.3.0.120,"ZSCAN12 (ZNF305, ZNF96) [11]",,zscan12
+2.3.3.0.123,ZBTB40 [12],,zbtb40
+2.3.3.0.125,ZNF454 (Zfp454) [12],,zfp454
+2.3.3.0.148,ZNF329 (Zfp329) [12],,zfp329
+2.3.3.0.149,ZFP90 (ZNF756) [13],,zfp90
+2.3.3.0.150,ZNF317 (Zfp317) [13],,zfp317
+2.3.3.0.152,"MZF1 (ZNF42, ZSCAN6) [13]",AGTGGGGA,mzf1
+2.3.3.0.157,ZNF879 (Zfp879) [13],,zfp879
+2.3.3.0.159,"ZNF167 (ZKSCAN7, ZNF448, ZNF64, Zfp167) [13]",,zkscan7
+2.3.3.0.160,"ZNF250 (ZNF647, Zfp647) [13]",,zfp647
+2.3.3.0.162,ZFP3 (ZNF752) [13],,zfp3
+2.3.3.0.166,"ZNF311 (ZFP31, Zscan20) [14]",,zscan20
+2.3.3.0.167,"ZNF551 (KOX23, Zfp551) [14]",,zfp551
+2.3.3.0.169,ZSCAN10 (ZNF206) [14],GCGCATGCGC,zscan10
+2.3.3.0.174,ZNF287 (ZKSCAN13) [14],,
+2.3.3.0.179,ZNF667 [15],,
+2.3.3.0.192,ZFP28 [15],,zfp28
+2.3.3.0.193,"ZNF182 (KOX14, ZNF21, Zfp182) [15]",,zfp182
+2.3.3.0.195,PRDM5 (PFM2) [16],GGAGAGCAGG,prdm5
+2.3.3.0.196,RBAK (ZNF769) [16],,rbak
+2.3.3.0.197,ZNF189 (Zfp189) [16],,zfp189
+2.3.3.0.215,ZNF569 (Zfp74) [18],,zfp74
+2.3.3.0.219,"ZNF271 (HZF7, ZNF-dp, ZNFEB, Zfp35) [19]",,zfp35
+2.3.3.0.220,ZNF184 (Zfp184) [19],,zfp184
+2.3.3.0.231,ZFP62 [23],,zfp62
+2.3.4,Family: Factors with multiple dispersed zinc fingers,,
+2.3.4.1,Subfamily: ZNF417-like factors,,
+2.3.4.2,Subfamily: ZNF219-like factors,CCCCCA,
+2.3.4.2.1,ZNF219 (Zfp219) [2+1+2+1],,zfp219
+2.3.4.2.2,ZNF536 (Zfp536) [2+4+1+2],,zfp536
+2.3.4.2.3,ZNF516 (Zfp516) [2+5+1+1+1],,zfp516
+2.3.4.2.4,ZNF217 (ZABC1) [1+3+1+2],,
+2.3.4.3,Subfamily: Sal-like factors,,
+2.3.4.3.1,"SALL1 (Spalt-1, Sal-1, ZNF794) [2+3+2+2]",,sall1
+2.3.4.3.2,"SALL2 (Spalt-2, Sal-2, ZNF795) [2+3+2]",,sall2
+2.3.4.3.3,"SALL3 (Sal-3, ZNF796) [2+3+2+2]",,sall3
+2.3.4.3.4,SALL4 (ZNF797) [2+3+2+2],,sall4
+2.3.4.4,Subfamily: Ikaros,TTGGGAAT,
+2.3.4.4.1,"IKZF1 (IK1, IKAROS, Lyf-1, ZNFN1A1) [4+2]",,ikzf1
+2.3.4.4.2,"IKZF2 (HELIOS, ZNFN1A2, Zfpn1a2) [4+2]",,ikzf2
+2.3.4.4.3,"IKZF3 (Aiolos, ZNFN1A3) [4+2]",,ikzf3
+2.3.4.4.4,"IKZF4 (EOS, ZNFN1A4, Zfpn1a4) [4+2]",,ikzf4
+2.3.4.4.5,"IKZF5 (Pegasus, ZNFN1A5, Zfpn1a5) [3+2]",,ikzf5
+2.3.4.5,Subfamily: HIV EP-factors,GGGACTTTCC,
+2.3.4.5.1,"HIV-EP1 (ZNF40, PRDII-BF1, MBP-1, CIRIP, GAAP) [2+1+2]",,hivep1
+2.3.4.5.2,"HIV-EP2 (MBP-2, ZNF40B) [2+2]",,hivep2
+2.3.4.5.3,"HIV-EP3 (KBP1, KRC, ZAS3) [2+1+2]",,hivep3
+2.3.4.6,Subfamily: ZBTB1-like factors,,
+2.3.4.6.1,ZBTB1 [1+1+6],,zbtb1
+2.3.4.6.2,ZBTB2 (ZNF437) [1+3],,zbtb2
+2.3.4.6.3,"ZBTB25 (KUP, ZNF46) [1+1]",,zbtb25
+2.3.4.7,Subfamily: RLF-like factors,,
+2.3.4.7.1,RLF [1+5+1+2+4+1],,rlf
+2.3.4.7.2,ZNF292 (Zfp292) [1+5+1+1+2+4+1],,zfp292
+2.3.4.7.3,ZNF654 (Zfp654) [1+4],,zfp654
+2.3.4.8,Subfamily: MAZ-like factors,GGGGAGGG,
+2.3.4.8.1,"MAZ (Zif87, ZNF801) [1+5]",,maz
+2.3.4.8.2,"VEZF1 (DB1, ZNF161) [1+5]",,vezf1
+2.3.4.8.3,"PATZ1 (RIAZ, ZBTB19, ZNF278, ZSG) [1+5+1]",,patz1
+2.3.4.9,Subfamily: ZNF532-like factors,,
+2.3.4.9.1,ZNF532 (Zfp532) [1+6+3+2],,zfp532
+2.3.4.9.2,ZNF592 (Zfp592) [2+6+3+2],,zfp592
+2.3.4.9.3,ZNF687 (Zfp687) [1+5+2+2],,zfp687
+2.3.4.10,Subfamily: ZNF512-factors,,
+2.3.4.10.1,ZNF512 (Zfp512) [1+1+2],,zfp512
+2.3.4.10.2,ZNF512B (Zfp512b) [2+3+2],,zfp512b
+2.3.4.11,Subfamily: ZNF658-factors,,
+2.3.4.12,Subfamily: ZNF423-like factors,GCACCCAAGGGTGC,
+2.3.4.12.1,"ZNF423 (OAZ, Zfp423) [1+7+5+7+10]",,zfp423
+2.3.4.12.2,"ZNF521 (EHZF, LIP3, Zpf521) [1+7+5+7+5+5]",,
+2.3.4.13,Subfamily: ZNF639-like factors,,
+2.3.4.13.1,"ZNF639 (ZASC1, Zfp639) [4+4]",,zfp639
+2.3.4.13.2,"ZNF711 (CMPX1, ZNF6, Zfp711) [1+10]",,zfp711
+2.3.4.14,Subfamily: Evi-1-like factors,ACAAGATAA,
+2.3.4.14.1,EVI-1 (MECOM) [7+3],,mecom
+2.3.4.14.2,"PRDM16 (MEL1, PFM13) [7+3]",,prdm16
+2.3.4.15,Subfamily: BCL11,,
+2.3.4.15.1,"BCL11A (CTIP1, EVI9, ZNF856) [1+2]",,bcl11a
+2.3.4.15.2,"BCL11B (CTIP2, RIT1) [1+2+3]",,rit1
+2.3.4.15.3,ZNF296 (ZNF342) [1+2+3],,
+2.3.4.16,Subfamily: Insulinoma-associated proteins,,
+2.3.4.16.1,INSM1 (IA-1) [2+1+2],,insm1
+2.3.4.16.2,INSM2 (IA-6) [2+3],,insm2
+2.3.4.17,Subfamily: Hypermethylated in Cancer proteins,GGGTGCCCGG,
+2.3.4.17.1,HIC1 (ZBTB29) [1+4],,hic1
+2.3.4.17.2,"HIC2 (HRG22, ZBTB30) [1+4]",,hic2
+2.3.4.18,Subfamily: ZNF518,,
+2.3.4.18.1,ZNF518A (Zfp518a) [4+1],,zfp518a
+2.3.4.18.2,ZNF518B (Zfp518b) [2+1],,zfp518b
+2.3.4.19,Subfamily: Basonuclin,,
+2.3.4.19.1,BNC1 [2+2+2],,bnc1
+2.3.4.19.2,BNC2 [1+1+2],,bnc2
+2.3.4.20,Subfamily: TRERF1-like factors,,
+2.3.4.20.1,"TRERF1 (BCAR2, RAPA, TREP132) =3.5.1.3.9[1+1+1]",,trerf1
+2.3.4.20.2,"ZNF541 (Ship1, Zfp541) [3+1+1] =3.5.1.3.10",,zfp541
+2.3.4.21,Subfamily: HINFP-like factors,CGGACGTT,
+2.3.4.21.1,"HINFP (MIZF, ZNF743) [1+8]",,hinfp
+2.3.4.21.2,"ZFAT (ZFAT1, ZNF406, Zfp406) [1+1+7+10]",,zfat
+2.3.4.22,Subfamily: ZNF526-like factors,,
+2.3.4.22.1,ZNF526 (Zfp526) [1+2+1+9],,zfp526
+2.3.4.22.2,ZNF574 [3+1+4+8+4],,
+2.3.4.23,Subfamily: ZNF319-like factors,,
+2.3.4.23.1,ZNF319 (Zfp319) [3+13],,zfp319
+2.3.4.23.2,ZNF786 (Zfp786) [2+14],,zfp786
+2.3.4.24,Subfamily: ZNF134-like factors,,
+2.3.4.25,Subfamily: ZNF37A-like factors,,
+2.3.4.25.3,ZNF248 (Zfp248) [1+7],,zfp248
+2.3.4.25.4,ZNF334 (Zfp334) [9+5],,zfp334
+2.3.4.25.5,"ZNF382 (KS1, Zfp382) [1+9]",,zfp382
+2.3.4.0,Subfamily: unclassified,,
+2.3.4.0.1,"CASZ1 (CST, SRG, ZNF693) [3+1+1+3]",,casz1
+2.3.4.0.2,"ZNF335 (NIF-1, Zfp335) [1+8+4]",,zfp335
+2.3.4.0.3,PRDM8 (PFM5) [1+2],,prdm8
+2.3.4.0.4,WIZ (ZNF803) [4+2+1+1+1+1+1],,wiz
+2.3.4.0.5,ZNF469 [1+1+3],,
+2.3.4.0.6,"ZFPM1 (FOG1, ZFN89A) =2.7.2.0.1[3+1]",,zfpm1
+2.3.4.0.7,ZBTB4 (KAISO-L1) [1+3+2],,zbtb4
+2.3.4.0.8,ZBTB38 [2+3+5],,zbtb38
+2.3.4.0.9,ZBTB39 [2+3+3],,zbtb39
+2.3.4.0.10,ZNF295 (ZBTB21) [2+1+2+2+1],,zbtb21
+2.3.4.0.11,ZNF827 [3+4+2],,
+2.3.4.0.12,PRDM13 (PFM10) [1+3],,prdm13
+2.3.4.0.13,"ZNF646 (PFM10, Zfp646) [1+3]",,zfp646
+2.3.4.0.14,ZNF579 (Zfp579) [3+2+3],,zfp579
+2.3.4.0.15,"RREB1 (FINB, Zep-1, LZ321) [3+2+1+5+1+1+2]",CCCCAAACACCCCC,rreb1
+2.3.4.0.16,"PRDM2 (G3B, MTB-ZF, MTE-BP, KMT8, RIZ) [2+1+3+1+1]",GTCATATGAC,prdm2
+2.3.4.0.17,ZNF800 (Zfp800) [1+3+2+1],,zfp800
+2.3.4.0.18,ZNF618 [3+1],,
+2.3.4.0.19,"ZNF277 (NRIF4, ZNF277P, Zfp277) [1+1]",,zfp277
+2.3.4.0.20,TRPS1 (GC79) =2.2.1.2.13[1+1+3+2],,trps1
+2.3.4.0.21,"ZNF451 (COASTER, Zfp451) [1+3+2+3+2]",,zfp451
+2.3.4.0.22,ZNF438 [3+1],,
+2.3.4.0.23,PEG3 (ZSCAN24) [4+1+5+2],,peg3
+2.3.4.0.24,ZNF507 (Zfp507) [2+1+3+2+1],,zfp507
+2.3.4.0.25,ZNF236 (Zfp236) [9+4+4+4+4+5],,zfp236
+2.3.4.0.26,ZNF770 (Zfp770) [3+3+1+2+2],,zfp770
+2.3.4.0.27,"REST (NRSF, XBR) [1+7+1]",TTCAGCACCACGGACAGCGCC,rest
+2.3.4.0.28,ZFP57 (ZNF698) [4+3],TTCAGCACCACGGACAGCGCC,zfp57
+2.3.4.0.29,"ZNF8 (HF.18, Zfp128) [6+1]",,zfp128
+2.3.4.0.30,ZNF597 (Zfp597) [4+3],,zfp597
+2.3.4.0.31,PRDM4 (PFM1) [1+5],,prdm4
+2.3.4.0.32,PRDM15 (ZNF298) [1+15],,prdm15
+2.3.4.0.33,ZBTB41 (FRBZ1) [1+13],,zbtb41
+2.3.4.0.34,"PRDM10 (PFM7, TRIS) [1+9]",,prdm10
+2.3.4.0.35,ZNF341 (Zfp341) [1+2+9],,zfp341
+2.3.4.0.36,ZNF513 (Zfp513) [3+5],,zfp513
+2.3.4.0.37,ZNF142 (Zfp142) [14+17],,zfp142
+2.3.4.0.38,FIZ1 (ZNF798) [4+2+5],,fiz1
+2.3.4.0.39,ZNF628 (Zfp628) [7+2+6],CAAGGTTGGTTGC,zfp628
+2.3.4.0.40,ZNF784 (Zfp784) [3+3],,zfp784
+2.3.4.0.41,ZNF697 (Zfp697) [1+10],,zfp697
+2.3.4.0.42,ZKSCAN5 (ZFP95) [4+9],,zkscan5
+2.3.4.0.43,ZNF316 (Zfp316) [6+9],,zfp316
+2.3.4.0.44,ZNF775 (Zfp775) [4+4+3],,zfp775
+2.3.4.0.45,ZNF467 (Zfp467) [7+5],,zfp467
+2.3.4.0.46,"ZNF787 (TTF-I-IP20, Zfp787) [5+2]",,zfp787
+2.3.4.0.48,"ZNF48 (ZNF553, Zfp48, Zfp553) [8+2+2]",,zfp553
+2.3.4.0.49,"ZNF629 (ZNF65, Zfp629) [15+3+1]",,zfp629
+2.3.4.0.50,ZNF668 (Zfp668) [13+3],,zfp668
+2.3.4.0.53,"ZNF445 (ZKSCAN15, ZNF168, Zfp445) [12+2]",,zfp445
+2.3.4.0.56,"ZSCAN20 (KOX29, ZNF31, ZNF360) [4+6]",,zscan20
+2.3.4.0.64,ZNF426 (Zfp426) [1+11],,zfp426
+2.3.4.0.65,"ZFP112 (ZNF112, ZNF228) [1+16]",,zfp112
+2.3.4.0.67,"ZNF606 (ZNF328, Zfp606) [2+14]",,zfp606
+2.3.4.0.71,PRDM9 (PFM6) [1+12],,prdm9
+2.3.4.0.72,"ZBTB17 (MIZ1, ZNF151, ZNF60) [12+1]",,zbtb17
+2.3.4.0.73,ZNF407 (Zfp407) [3+3+1+2+2+11],,zfp407
+2.3.4.0.74,"E4F1 (p120E4F, p50E4F) [3+6]",TACGTCAC,e4f1
+2.3.4.0.75,ZNF462 (Zfp462) [1+2+2+1+3+1+1+3+2+1+4+5+1],,zfp462
+2.3.4.0.76,"ZNF644 (ZEP2, Zfp644) [5+1+1]",,zfp644
+2.3.4.0.77,ADNP (ADNP1) =3.1.8.1.1[4+3+2],,adnp
+2.3.4.0.78,ADNP2 (ZNF508) =3.1.8.1.2[1+1+1+1],,adnp2
+2.3.5,Family: BED zinc finger factors,TGTCGCGACA,
+2.3.5.0.3,ZBED3,,zbed3
+2.3.5.0.4,ZBED4,,zbed4
+2.3.5.0.6,ZBED6 (MGR),,zbed6
+2.4,Class: C6 zinc cluster factors,,
+None,,,
+2.5,Class: DM-type intertwined zinc finger factors,,
+2.5.1,Family: DMRT,TGATACATTGTTGC,
+2.5.1.0.1,DMRT1,,dmrt1
+2.5.1.0.2,DMRT2,,dmrt2
+2.5.1.0.3,DMRT3,,dmrt3
+2.5.1.0.4,DMRTA1 (DMRT4),,dmrta1
+2.5.1.0.5,DMRTA2 (DMRT5),,dmrta2
+2.5.1.0.6,DMRTB1,,dmrtb1
+2.5.1.0.7,DMRTC2,,dmrtc2
+2.5.1.0.8,DMRTC1a (no DM domain!),,dmrtc1a
+2.5.1.0.9,DMRTC1b (no DM domain!),,dmrtc1b
+2.5.1.0.10,DMRTC1c (no DM domain!),,
+2.6,Class: CXXC zinc finger factors,,
+2.6.1,Family: CpG-binding proteins,,
+2.6.1.0.1,"CpG-binding protein (CXXC1, CFP1, CGBP, PCCX1, PHF18)",,cxxc1
+2.6.1.0.2,"MBD1 (CXXC3, PCM1)",,pcm1
+2.6.1.0.3,"TET1 (CXXC6, LCX)",,tet1
+2.6.1.0.4,"MLL (CXXC7, ALL1, HRX, HTRX, KMT2A, MLL1, TRX1)",,kmt2a
+2.6.1.0.5,"KDM2A (CXXC8, FBL7, FBXL11, JHDM1A)",,kdm2a
+2.6.1.0.6,"DNMT1 (CXXC9, AIM, DNMT)",,dnmt1
+2.6.1.0.7,"MLL2 (HRX2, KMT2B, WBP7, MLL4, TRX2)",,kmt2b
+2.7,Class: C2HC zinc finger factors,,
+2.7.1,Family: Myelin transcription factor-related proteins,AAGTT,
+2.7.1.0.1,"MYT1 (MyT1, MTF1, MYTI, PLPB1) [7]",,mtf1
+2.7.1.0.2,"MYT1L (MyT1L, NZF-1) [6]",,myt1l
+2.7.1.0.3,"ST18 (ZNF387, NZF-3) [6]",,st18
+2.7.2,Family: Friend of GATA proteins,,
+2.7.2.0.1,"FOG1 (ZFPM1, ZFN89A) [5] =2.3.4.0.6",,zfpm1
+2.7.2.0.2,"FOG2 (ZFPM2, ZFN89B) [5] =2.3.2.4.6",,zfpm2
+2.7.3,Family: Histone acetyltransferases with C2HC zinc finger,,
+2.7.3.0.1,"MYST1 (KAT8, TIP60 protein 1) [1]",,kat8
+2.7.3.0.2,"MYST2 (KAT7, TIP60 protein 2, HBO1, HBOa) [1]",,kat7
+2.7.3.0.3,"MYST3 (KAT6A, TIP60 protein 3, RUNXBP2, ZNF220, MOZ) [1]",,kat6a
+2.7.3.0.4,"MYST4 (KAT6B, TIP60 protein 4, MORF, MOZ2) [1]",,kat6b
+2.7.3.0.5,"KAT5 (HTATIP, TIP60) [1]",,kat5
+2.7.4,Family: Lethal(3)malignant brain tumor-related proteins,,
+2.7.4.0.1,"L3MBTL1 (L3MBT, L3MBTL) [1]",,l3mbtl1
+2.7.5,Family: LYAR-related proteins,,
+2.7.5.0.1,LYAR (PNAS-5) [2],,lyar
+2.8,Class: C3H zinc finger factors,,
+2.8.1,Family: ZC3H8-related factors,,
+2.8.1.0.1,"ZC3H8 (ZC3HDC8, FLIZ1) [3]",,zc3h8
+2.8.1.0.2,ZC3H4 [3],,zc3h4
+2.8.1.0.3,ZC3H6 (ZC3HDC6) [3],,zc3h6
+2.8.2,Family: ZGPAT-related factors,,
+2.8.2.0.1,"ZGPAT (GPATC6, GPATCH6, ZC3H9, ZC3HDC9, ZIP) [1]",,zgpat
+2.8.3,Family: RC3H-related factors,,
+2.8.3.0.1,"RC3H2 (Roquin-2, MNAB, RNF164) [1]",,rc3h2
+2.8.4,Family: CNOT4-related factors,,
+2.8.4.0.1,CNOT4 (NOT4) [1],,cnot4
+2.9,Class: C2CH THAP-type zinc finger factors,,
+2.9.1,Family: THAP-related factors,TTGCCCGTACT,
+2.9.1.0.1,THAP1,,thap1
+2.9.1.0.2,THAP2,,thap2
+2.9.1.0.3,THAP3,,thap3
+2.9.1.0.4,"THAP4 (CGI-36, PP238)",,thap4
+2.9.1.0.7,THAP7,,thap7
+2.9.1.0.11,THAP11 (HRIHFB2206),,thap11
+2.9.1.0.12,"PRKRIR (P52RIPK, DAP4, THAP0)",,prkrir
+None,,,
+None,,,
+3,Superclass: Helix-turn-helix domains,,
+3.1,Class: Homeo domain factors,,
+3.1.1,Family: HOX-related factors,,
+3.1.1.1,Subfamily: HOX1,TAATTA,
+3.1.1.1.1,"Hox-A1 (HOX1F, ERA-1)",,hoxa1
+3.1.1.1.2,Hox-B1 (HOX2I),,hoxb1
+3.1.1.1.3,Hox-D1 (HOX4G),,hoxd1
+3.1.1.2,Subfamily: HOX2,TAATTA,
+3.1.1.2.1,Hox-A2 (HOX1K),,hoxa2
+3.1.1.2.2,Hox-B2 (HOX2H),,hoxb2
+3.1.1.3,Subfamily: HOX3,TAATTA,
+3.1.1.3.1,Hox-A3 (HOX1E),,hoxa3
+3.1.1.3.2,Hox-B3 (HOX2G),,hoxb3
+3.1.1.3.3,Hox-D3 (HOX4A),,hoxd3
+3.1.1.4,Subfamily: HOX4,TTAATTAA,
+3.1.1.4.1,Hox-A4 (HOX1D),,hoxa4
+3.1.1.4.2,Hox-B4 (HOX2F),,hoxb4
+3.1.1.4.3,Hox-C4 (HOX3E),,hoxc4
+3.1.1.4.4,Hox-D4 (HOX4B),,hoxd4
+3.1.1.5,Subfamily: HOX5,TAATTA,
+3.1.1.5.1,Hox-A5 (HOX1C),,hoxa5
+3.1.1.5.2,Hox-B5 (HOX2A),,hoxb5
+3.1.1.5.3,Hox-C5 (HOX3D),,hoxc5
+3.1.1.6,Subfamily: HOX6-7,TAATTA,
+3.1.1.6.1,Hox-A6 (HOX1B),,hoxa6
+3.1.1.6.2,Hox-B6 (HOX2B),,hoxb6
+3.1.1.6.3,Hox-C6 (HOX3C),,hoxc6
+3.1.1.6.4,Hox-A7 (HOX1A),,hoxa7
+3.1.1.6.5,Hox-B7 (HOX2C),,hoxb7
+3.1.1.7,Subfamily: HOX8,GTAATTA,
+3.1.1.7.1,Hox-B8 (HOX2D),,hoxb8
+3.1.1.7.2,Hox-C8 (HOX3A),,hoxc8
+3.1.1.7.3,Hox-D8 (HOX4E),,hoxd8
+3.1.1.8,Subfamily: HOX9-13,TCGTAAA,
+3.1.1.8.1,Hox-A9 (HOX1G),,hoxa9
+3.1.1.8.2,Hox-B9 (HOX2E),,hoxb9
+3.1.1.8.3,Hox-C9 (HOX3B),,hoxc9
+3.1.1.8.4,Hox-D9 (HOX4C),,hoxd9
+3.1.1.8.5,Hox-A10 (HOX1H),,hoxa10
+3.1.1.8.6,Hox-C10 (HOX3I),,hoxc10
+3.1.1.8.7,"Hox-D10 (HOX4D, HOX4E)",,hoxd10
+3.1.1.8.8,Hox-A11 (HOX1I),,hoxa11
+3.1.1.8.9,Hox-C11 (HOX3H),,hoxc11
+3.1.1.8.10,Hox-D11 (HOX4F),,hoxd11
+3.1.1.8.11,Hox-C12 (HOX3F),,hoxc12
+3.1.1.8.12,Hox-D12 (HOX4H),,hoxd12
+3.1.1.8.13,Hox-A13 (HOX1J),,hoxa13
+3.1.1.8.14,Hox-B13,,hoxb13
+3.1.1.8.15,Hox-C13 (HOX3G),,hoxc13
+3.1.1.8.16,Hox-D13 (HOX4I),,hoxd13
+3.1.1.9,Subfamily: CDX (Caudal type homeobox),GGTAATAAA,
+3.1.1.9.1,CDX-1,,cdx1
+3.1.1.9.2,CDX-2 (CDX-3),,cdx2
+3.1.1.9.3,CDX-4,,cdx4
+3.1.1.10,Subfamily: EVX (Even-skipped homolog),CTAATTAG,
+3.1.1.10.1,EVX-1,,evx1
+3.1.1.10.2,EVX-2,,evx2
+3.1.1.11,Subfamily: GBX (Gastrulation brain homeobox),CTAATTAG,
+3.1.1.11.1,GBX-1,,gbx1
+3.1.1.11.2,GBX-2,,gbx2
+3.1.1.12,Subfamily: GSX,TAATTA,
+3.1.1.12.1,GSX-1 (GSH-1),,gsx1
+3.1.1.12.2,GSX-2 (GSH-2),,gsx2
+3.1.1.13,Subfamily: MNX,ACTAATTA,
+3.1.1.13.1,"MNX1 (HB9, HLXB9)",,mnx1
+3.1.1.14,Subfamily: MEOX,TAATTA,
+3.1.1.14.1,MEOX-1 (MOX-1),,meox1
+3.1.1.14.2,MEOX-2 (MOX-2),,meox2
+3.1.1.15,Subfamily: PDX,TAATTA,
+3.1.1.15.1,PDX-1 (IPF-1),,pdx1
+3.1.2,Family: NK-related factors,,
+3.1.2.1,Subfamily: BARHL,AACCAATTA,
+3.1.2.1.1,BarH-L1,,barhl1
+3.1.2.1.2,BarH-L2,,barhl2
+3.1.2.2,Subfamily: BARX,TAATTA,
+3.1.2.2.1,BARX-1,,barx1
+3.1.2.2.2,BARX-2,,barx2
+3.1.2.3,Subfamily: BSX,TAATTA,
+3.1.2.3.1,BSX-1 (BSX),,bsx
+3.1.2.4,Subfamily: DBX,TTAATTA,
+3.1.2.4.1,DBX-1,,dbx1
+3.1.2.4.2,DBX-2,,dbx2
+3.1.2.5,Subfamily: DLX,TAATTA,
+3.1.2.5.1,DLX-1,,dlx1
+3.1.2.5.2,DLX-2,,dlx2
+3.1.2.5.3,DLX-3,,dlx3
+3.1.2.5.4,DLX-4,,dlx4
+3.1.2.5.5,DLX-5,,dlx5
+3.1.2.5.6,DLX-6,,dlx6
+3.1.2.6,Subfamily: EMX,CTAATTAG,
+3.1.2.6.1,EMX-1,,emx1
+3.1.2.6.2,EMX-2,,emx2
+3.1.2.7,Subfamily: EN (Engrailed-like factors),CTAATTAG,
+3.1.2.7.1,EN-1,,en1
+3.1.2.7.2,EN-2,,en2
+3.1.2.8,Subfamily: HHEX,ATTAA,
+3.1.2.8.1,HHEX (PRH),,hhex
+3.1.2.9,Subfamily: HLX,TAATTAATTA,
+3.1.2.9.1,HLX-1 (HB24),,
+3.1.2.10,Subfamily: LBX,TTAATTAA,
+3.1.2.10.1,LBX-1,,lbx1
+3.1.2.10.2,LBX-2,,lbx2
+3.1.2.11,Subfamily: MSX,ACCAATTA,
+3.1.2.11.1,MSX-1 (HOX7),,msx1
+3.1.2.11.2,MSX-2 (HOX8),,msx2
+3.1.2.12,Subfamily: NANOG,CCATTT,
+3.1.2.12.1,NANOG,,nanog
+3.1.2.13,Subfamily: NK-1,CTAATTAG,
+3.1.2.13.1,"NKX-1.1 (NKX1-1, SAX-2)",,
+3.1.2.13.2,"NKX-1.2 (NKX1-2, SAX-1)",,
+3.1.2.14,Subfamily: NK-2.1,CCACTTGA,
+3.1.2.14.1,"NKX-2.1 (NKX2-1, TTF-1)",,ttf1
+3.1.2.14.2,"NKX-2.4 (NKX2-4, NK-2HD)",,
+3.1.2.15,Subfamily: NK-2.2,CCACTTGA,
+3.1.2.15.1,"NKX-2.2 (NKX2-2, NKX2B)",,
+3.1.2.15.2,"NKX-2.8 (NKX2-8, NKX2-9, NKX2G, NKX2H)",,
+3.1.2.16,Subfamily: NK-3,AAGTACTT,
+3.1.2.16.1,"NKX-3.1 (NKX3-1, NKX3A)",,
+3.1.2.16.2,"NKX-3.2 (NKX3-2, NKX3B)",,
+3.1.2.17,Subfamily: NK-4,CCACTTAA,
+3.1.2.17.1,"NKX-2.3 (NKX2-3, NKX2C, NKX4-3)",,
+3.1.2.17.2,"NKX-2.5 (NKX2-5, NKX2E, NKX4-1, CSX)",,
+3.1.2.17.3,"NKX-2.6 (NKX2-6, NKX2F, NKX4-2, CSX2)",,
+3.1.2.18,Subfamily: NK-5/HMX,AGCAATTAA,
+3.1.2.18.1,"HMX-1 (H6, NKX5-3, NKX-5.3)",,hmx1
+3.1.2.18.2,"HMX-2 (H6L, NKX5-2, NKX-5.2)",,hmx2
+3.1.2.18.3,"HMX-3 (NKX5-1, NKX-5.1)",,hmx3
+3.1.2.19,Subfamily: NK-6,AATAATTA,
+3.1.2.19.1,"NKX-6.1 (NKX6-1, NKX6A)",,
+3.1.2.19.2,"NKX-6.2 (NKX6-2, NKX6B)",,
+3.1.2.19.3,NKX-6.3 (NKX6-3),,
+3.1.2.20,Subfamily: NOTO,,
+3.1.2.20.1,NOTO,,noto
+3.1.2.21,Subfamily: TLX,AATTAATA,
+3.1.2.21.1,"TLX-1 (HOX11, TCL-3)",,tlx1
+3.1.2.21.2,"TLX-2 (HOX11L1, NCX)",,tlx2
+3.1.2.21.3,TLX-3 (HOX11L2),,tlx3
+3.1.2.22,Subfamily: VAX,TAATTA,
+3.1.2.22.1,VAX-1,,vax1
+3.1.2.22.2,VAX-2,,vax2
+3.1.2.23,Subfamily: VENTX,,
+3.1.3,Family: Paired-related HD factors,,
+3.1.3.1,Subfamily: ALX,TTAATTAA,
+3.1.3.1.1,ALX-1 (CART-1),,alx1
+3.1.3.1.2,ALX-3,,alx3
+3.1.3.1.3,ALX-4,,alx4
+3.1.3.2,Subfamily: ARGFX,,
+3.1.3.3,Subfamily: ARX,TTAATTAA,
+3.1.3.3.1,ARX,,arx
+3.1.3.4,Subfamily: DMBX,GGATTA,
+3.1.3.4.1,"DMBX (MBX, OTX-3, PAXB)",,
+3.1.3.5,Subfamily: DPRX,,
+3.1.3.6,Subfamily: DRGX,,
+3.1.3.6.1,"DRGX (PRRXL1, Drg11)",,prrxl1
+3.1.3.7,Subfamily: DUX,TCTAATTGAGAATTAC,
+3.1.3.8,Subfamily: ESX,TTAATTAA,
+3.1.3.9,Subfamily: GSC,GGATTA,
+3.1.3.9.1,GSC,,gsc
+3.1.3.9.2,GSC-2,,gsc2
+3.1.3.10,Subfamily: HESX,TAATTGAATTA,
+3.1.3.10.1,HESX-1,,hesx1
+3.1.3.11,Subfamily: HOPX,,
+3.1.3.11.1,HOPX-1,,
+3.1.3.12,Subfamily: ISX,CTAATTAG,
+3.1.3.12.1,ISX,,isx
+3.1.3.13,Subfamily: LEUTX,,
+3.1.3.14,Subfamily: MIX,,
+3.1.3.14.1,MIXL1,,mixl1
+3.1.3.15,Subfamily: NOBOX,CTAATTAG,
+3.1.3.16,Subfamily: OTP,TTAATTAA,
+3.1.3.16.1,OTP,,otp
+3.1.3.17,Subfamily: OTX,GGGATTAA,
+3.1.3.17.1,OTX-1,,otx1
+3.1.3.17.2,OTX-2,,otx2
+3.1.3.17.3,CRX (CORD-2),,crx
+3.1.3.18,Subfamily: PHOX,ATAATTAA,
+3.1.3.18.1,"PHOX-2A (ARIX, PMX2A)",,phox2a
+3.1.3.18.2,PHOX-2B (PMX2B),,phox2b
+3.1.3.19,Subfamily: PITX,GGGATTAA,
+3.1.3.19.1,"PITX-1 (BFT, PTX1)",,pitx1
+3.1.3.19.2,"PITX-2 (ARP, RGS, RIEG1, Ptx2)",,pitx2
+3.1.3.19.3,PITX-3 (PTX3),,ptx3
+3.1.3.20,Subfamily: PROP,TTAATTAA,
+3.1.3.20.1,PROP-1,,prop1
+3.1.3.21,Subfamily: PRRX,GCTAATTAGC,
+3.1.3.21.1,"PRRX-1 (PHOX1, PMX1)",,prrx1
+3.1.3.21.2,"PRRX-2 (PMX2, PRX2)",,prrx2
+3.1.3.22,Subfamily: RAX,CTAATTAG,
+3.1.3.22.1,RAX (RX),,rax
+3.1.3.23,Subfamily: RHOX,CTAATTAG,
+3.1.3.24,Subfamily: SEBOX,,
+3.1.3.24.1,SEBOX (OG-9),,sebox
+3.1.3.25,Subfamily: SHOX,TTAATTAA,
+3.1.3.25.2,"SHOX-2 (OG-12X, SHOT)",,shox2
+3.1.3.26,Subfamily: TPRX,,
+3.1.3.27,Subfamily: UNCX,TTAATTAA,
+3.1.3.27.1,UNCX (Uncx4.1),,uncx
+3.1.3.28,Subfamily: VSX,TTAATTAA,
+3.1.3.28.1,VSX-1 (RINX),,vsx1
+3.1.3.28.2,VSX-2 (HOX10),,vsx2
+3.1.4,Family: TALE-type homeo domain factors,,
+3.1.4.1,Subfamily: IRX (Iroquois),TACATGTA,
+3.1.4.1.1,IRX-1,,irx1
+3.1.4.1.2,IRX-2,,irx2
+3.1.4.1.3,IRX-3,,irx3
+3.1.4.1.4,IRX-4,,irx4
+3.1.4.1.5,IRX-5,,irx5
+3.1.4.1.6,IRX-6,,irx6
+3.1.4.2,Subfamily: MEIS,AGCTGTCAA,
+3.1.4.2.1,Meis1,,meis1
+3.1.4.2.2,Meis2,,meis2
+3.1.4.2.3,Meis3,,meis3
+3.1.4.3,Subfamily: MKX (Mohawk),,
+3.1.4.3.1,MKX (IRX-L1),,mkx
+3.1.4.4,Subfamily: PBX,CATCAAT,
+3.1.4.4.1,PBX-1,,pbx1
+3.1.4.4.2,PBX-2,,pbx2
+3.1.4.4.3,PBX-3,,pbx3
+3.1.4.4.4,PBX-4,,pbx4
+3.1.4.5,Subfamily: PKNOX,ACCTGTCAAT,
+3.1.4.5.1,PKNOX-1 (PREP-1),,pknox1
+3.1.4.5.2,PKNOX-2 (PREP-2),,pknox2
+3.1.4.6,Subfamily: TGIF,AGCTGTCAAT,
+3.1.4.6.1,TGIF-1,,tgif1
+3.1.4.6.2,TGIF-2,,tgif2
+3.1.4.6.3,TGIF-2LX,,
+3.1.5,Family: HD-LIM factors,AATTAA;,
+3.1.5.1,Subfamily: ISL,ATCAATTAA,
+3.1.5.1.1,ISL-1 (Islet-1),,isl1
+3.1.5.1.2,ISL-2 (Islet-2),,isl2
+3.1.5.2,Subfamily: Lhx-1-like factors,TTAATTAA,
+3.1.5.2.1,Lhx1 (Lim-1),,lhx1
+3.1.5.2.2,Lhx5,,lhx5
+3.1.5.3,Subfamily: Lhx-2-like factors,TAATTA,
+3.1.5.3.1,Lhx2 (LH-2),,lhx2
+3.1.5.3.2,Lhx9,,lhx9
+3.1.5.4,Subfamily: Lhx-3-like factors,TAATTA,
+3.1.5.4.1,Lhx3,,lhx3
+3.1.5.4.2,Lhx4,,lhx4
+3.1.5.5,Subfamily: Lhx-6-like factors,CTAATTAG,
+3.1.5.5.1,Lhx6 (Lhx6.1),,lhx6
+3.1.5.5.2,Lhx8,,lhx8
+3.1.5.6,Subfamily: Lmx,TTAATTAA,
+3.1.5.6.1,"Lmx-1a(LMX-1.1, LMX1A)",,lmx1a
+3.1.5.6.2,"Lmx-1b(LMX-1.2, LMX1B)",,lmx1b
+3.1.6,Family: HD-SINE factors,GGTATCA,
+3.1.6.1,Subfamily: SIX1-like factors,GGGTATCA,
+3.1.6.1.1,SIX1,,six1
+3.1.6.1.2,SIX2,,six2
+3.1.6.2,Subfamily: SIX3-like factors,GGGTATCA,
+3.1.6.2.1,SIX3,,six3
+3.1.6.2.2,SIX6,,six6
+3.1.6.3,Subfamily: SIX4-like factors,GGTGTCA,
+3.1.6.3.1,SIX4,,six4
+3.1.6.3.2,SIX5,,six5
+3.1.7,Family: HD-PROS factors,,
+3.1.7.0.1,PROX-1,,prox1
+3.1.7.0.2,PROX-2,,prox2
+3.1.8,Family: HD-ZF factors,,
+3.1.8.1,Subfamily: ADNP,,
+3.1.8.1.1,ADNP1 =2.3.4.0.77,,
+3.1.8.1.2,ADNP2 (ZNF508) =2.3.4.0.78,,adnp2
+3.1.8.2,Subfamily: TSHZ,,
+3.1.8.2.1,TSHZ-1,,tshz1
+3.1.8.2.2,TSHZ-2,,tshz2
+3.1.8.2.3,TSHZ-3,,tshz3
+3.1.8.3,Subfamily: ZEB,CACCTG,
+3.1.8.3.1,ZEB1 (TCF-8),,zeb1
+3.1.8.3.2,ZEB2 (SMADIP1),,zeb2
+3.1.8.4,Subfamily: ZFHX,,
+3.1.8.4.1,ZFHX2 (ZFH-2),,zfhx2
+3.1.8.4.2,"ZFHX3 (ZFH-3, ATBF1)",,zfhx3
+3.1.8.4.3,ZFHX4 (ZFH-4),,zfhx4
+3.1.8.5,Subfamily: ZHX,ATCGTTTT,
+3.1.8.5.1,ZHX1,,zhx1
+3.1.8.5.2,ZHX2 (AFP),,afp
+3.1.8.5.3,ZHX3 (TIX1),,zhx3
+3.1.8.5.4,HOMEZ,,homez
+3.1.9,Family: HD-CUT factors,,
+3.1.9.1,Subfamily: ONECUT,AAATCAAT,
+3.1.9.1.1,"ONECUT-1 (HNF6, HNF-6a, OC-1)",,onecut1
+3.1.9.1.2,"ONECUT-2 (HNF-6b, OC-2)",,onecut2
+3.1.9.1.3,ONECUT-3 (OC-3),,onecut3
+3.1.9.2,Subfamily: CUX,TGATCA,
+3.1.9.2.1,"Cux-1 (CDP, Cut-L1)",,cux1
+3.1.9.2.2,Cux-2 (Cut-L2),,cux2
+3.1.9.3,Subfamily: SATB,TAATGA,
+3.1.9.3.1,SATB-1,,satb1
+3.1.9.3.2,SATB-2,,satb2
+3.1.10,Family: POU domain factors,,
+3.1.10.1,Subfamily: POU1 (Pit-1-like factors),TAATTAATTA,
+3.1.10.1.1,"POU1F1 (Pit-1, GHF-1)",,pou1f1
+3.1.10.2,Subfamily: POU2 (Oct-1/2-like factors),TATGCAAAT,
+3.1.10.2.1,"POU2F1 (Oct-1, OTF-1)",,pou2f1
+3.1.10.2.2,"POU2F2 (Oct-2, OTF-2)",,pou2f2
+3.1.10.2.3,"POU2F3 (Oct-11, OTF-11, Skn-1)",,pou2f3
+3.1.10.3,Subfamily: POU3 (Oct-6-like factors),TAATTAATTA,
+3.1.10.3.1,"POU3F1 (Oct-6, OTF-6, SCIP)",,pou3f1
+3.1.10.3.2,"POU3F2 (Oct-7, OTF-7, Brn-2)",,pou3f2
+3.1.10.3.3,"POU3F3 (Oct-8, OTF-8, Brn-1)",,pou3f3
+3.1.10.3.4,"POU3F4 (Oct-9, OTF-9, Brn-4)",,pou3f4
+3.1.10.4,Subfamily: POU4 (Brn-3-like factors),ATTAATGA,
+3.1.10.4.1,"POU4F1 (Brn-3A, Oct-T1)",,pou4f1
+3.1.10.4.2,POU4F2 (Brn-3B),,pou4f2
+3.1.10.4.3,POU4F3 (Brn-3C),,pou4f3
+3.1.10.5,Subfamily: POU5 (Oct-3/4-like factors),,
+3.1.10.5.1,"POU5F1 (Oct-3, Oct-4, OTF-3)",,pou5f1
+3.1.10.5.3,POU5F2 (SPRM-1),,pou5f2
+3.1.10.6,Subfamily: POU6 (Brn-5-like factors),TAATGAG,
+3.1.10.6.1,POU6F1 (Brn-5),,pou6f1
+3.1.10.6.2,POU6F2 (Brn-5),,pou6f2
+3.1.10.7,Subfamily: HNF1-like factors,GTTAATGATTAAC,
+3.1.10.7.1,"HNF-1a(HNF-1A, LF-B1)",,hnf1a
+3.1.10.7.2,"HNF-1b(HNF-1B, vHNF1, LF-B3)",,hnf1b
+3.1.10.7.3,HMBOX1 (HNF-1LA),,hmbox1
+3.1.10.8,Subfamily: HDX-like factors,GAAATCA,
+3.1.10.8.1,HDX,,hdx
+3.1.11,Family: PHTF factors,,
+3.1.11.0.1,PHTF1,,phtf1
+3.1.11.0.2,PHTF2,,phtf2
+3.2,Class: Paired box factors,,
+3.2.1,Family: Paired plus homeo domain,CTAATTAG,
+3.2.1.1,Subfamily: PAX-3/7,CTAATTAG,
+3.2.1.1.1,Pax-3 (HuP2),,pax3
+3.2.1.1.2,Pax-7 (HuP1),,pax7
+3.2.1.2,Subfamily: PAX-4/6,CTAATTAG,
+3.2.1.2.1,Pax-4,,pax4
+3.2.1.2.2,Pax-6 (AN2),,pax6
+3.2.2,Family: Paired domain only,,
+3.2.2.1,Subfamily: PAX-1/9 (no homeo remnant),,
+3.2.2.1.1,Pax-1 (HuP48),,pax1
+3.2.2.1.2,Pax-9,,pax9
+3.2.2.2,Subfamily: PAX-2-like factors (partial homeobox),GTCATGCGTGA,
+3.2.2.2.1,Pax-2,,pax2
+3.2.2.2.2,Pax-5,,pax5
+3.2.2.2.3,Pax-8,,pax8
+3.3,Class: Fork head / winged helix factors,,
+3.3.1,Family: Forkhead box (FOX) factors,TGTTT,
+3.3.1.1,Subfamily: FOXA,TGTTTGTTT,
+3.3.1.1.1,FOXA1 (HNF-3a),,foxa1
+3.3.1.1.2,FOXA2 (HNF-3b),,foxa2
+3.3.1.1.3,FOXA3 (HNF-3g),,foxa3
+3.3.1.2,Subfamily: FOXB,,
+3.3.1.2.1,FOXB1 (Fkh-5),,foxb1
+3.3.1.2.2,FOXB2,,foxb2
+3.3.1.3,Subfamily: FOXC,TGTTTATTTAC,
+3.3.1.3.1,"FOXC1 (Fkh-L7, FREAC3)",,foxc1
+3.3.1.3.2,FOXC2 (Fkh-L14),,foxc2
+3.3.1.4,Subfamily: FOXD,TGTTTACTTAAG,
+3.3.1.4.1,"FOXD1 (Fkh-L8, FREAC4)",,foxd1
+3.3.1.4.2,"FOXD2 (Fkh-L17, FREAC9)",,foxd2
+3.3.1.4.3,FOXD3 (HFH-2),,foxd3
+3.3.1.4.4,"FOXD4 (Fkh-L9, FREAC5)",,foxd4
+3.3.1.5,Subfamily: FOXE,,
+3.3.1.5.1,"FOXE1 (FOXE2, Fkh-L15)",,foxe1
+3.3.1.5.2,"FOXE3 (Fkh-L12, FREAC8)",,foxe3
+3.3.1.6,Subfamily: FOXF,TGTTTATATG,
+3.3.1.6.1,"FOXF1 (Fkh-L5, FREAC1)",,foxf1
+3.3.1.6.2,"FOXF2 (Fkh-L6, FREAC2)",,foxf2
+3.3.1.7,Subfamily: FOXG,TTTGTTTTT,
+3.3.1.7.1,FOXG1 (Fkh-2),,foxg1
+3.3.1.8,Subfamily: FOXH,TGTGTATT,
+3.3.1.8.1,FOXH1,,foxh1
+3.3.1.9,Subfamily: FOXI,TGTTTGTTTA,
+3.3.1.9.1,"FOXI1 (Fkh-L10, FREAC6)",,foxi1
+3.3.1.9.2,FOXI2,,foxi2
+3.3.1.9.3,FOXI3,,foxi3
+3.3.1.10,Subfamily: FOXJ,TGTTTGTTTA,
+3.3.1.10.1,"FOXJ1 (Fkh-L13, HFH-4)",,foxj1
+3.3.1.10.2,FOXJ2 (Fkx),,foxj2
+3.3.1.10.3,FOXJ3 (Fkx),,foxj3
+3.3.1.11,Subfamily: FOXK,TTGTTTAC,
+3.3.1.11.1,FOXK1,,foxk1
+3.3.1.11.2,FOXK2,,foxk2
+3.3.1.12,Subfamily: FOXL,TGTTTATGT,
+3.3.1.12.1,"FOXL1 (Fkh-L11, FREAC7)",,foxl1
+3.3.1.12.2,FOXL2,,foxl2
+3.3.1.13,Subfamily: FOXM,CTGTTTAT,
+3.3.1.13.1,"FOXM1 (Fkh-L11, FREAC7)",,foxm1
+3.3.1.14,Subfamily: FOXN,,
+3.3.1.14.1,FOXN1 (Whn),,foxn1
+3.3.1.14.2,FOXN2 (HTLF),,foxn2
+3.3.1.14.3,FOXN3 (CHES1),,foxn3
+3.3.1.14.4,FOXN4,,foxn4
+3.3.1.15,Subfamily: FOXO,TTGTTTAC,
+3.3.1.15.1,FOXO1 (FKHR),,foxo1
+3.3.1.15.2,FOXO3 (FKHR-L1),,foxo3
+3.3.1.15.3,FOXO4,,foxo4
+3.3.1.15.4,FOXO6,,foxo6
+3.3.1.16,Subfamily: FOXP,TTGTTTCA,
+3.3.1.16.1,FOXP1,,foxp1
+3.3.1.16.2,FOXP2,,foxp2
+3.3.1.16.3,FOXP3,,foxp3
+3.3.1.16.4,FOXP4 (FKHLA),,foxp4
+3.3.1.17,Subfamily: FOXQ,,
+3.3.1.17.1,FOXQ1 (HFH-1),,foxq1
+3.3.1.18,Subfamily: FOXR,,
+3.3.1.18.1,FOXR1,,foxr1
+3.3.1.18.2,FOXR2,,foxr2
+3.3.1.19,Subfamily: FOXS,,
+3.3.1.19.1,"FOXS1 (Fkh-L18, FREAC10)",,foxs1
+3.3.2,Family: E2F-related factors,,
+3.3.2.1,Subfamily: E2F,,
+3.3.2.1.1,E2F-1,,e2f1
+3.3.2.1.2,E2F-2,,e2f2
+3.3.2.1.3,E2F-3,,e2f3
+3.3.2.1.4,E2F-4,,e2f4
+3.3.2.1.5,E2F-5,,e2f5
+3.3.2.1.6,E2F-6,,e2f6
+3.3.2.1.7,E2F-7,,e2f7
+3.3.2.1.8,E2F-8,,e2f8
+3.3.2.2,Subfamily: Dp-1,,
+3.3.2.2.1,Dp-1 (DRTF-1),,
+3.3.2.2.2,Dp-2 (Dp-3),,
+3.3.3,Family: RFX-related factors,,
+3.3.3.0.1,RFX1 (EF-C),,rfx1
+3.3.3.0.2,RFX2,,rfx2
+3.3.3.0.3,RFX3,,rfx3
+3.3.3.0.4,RFX4,,rfx4
+3.3.3.0.5,RFX5,,rfx5
+3.3.3.0.6,RFX6 (RFXDC-1),,rfx6
+3.3.3.0.7,RFX7 (RFXDC-2),,rfx7
+3.3.3.0.8,RFX8,,rfx8
+3.4,Class: Heat shock factors,,
+3.4.1,Family: HSF factors,TTCCAGAAGCTTC,
+3.4.1.0.1,HSF1 (HSTF1),,hsf1
+3.4.1.0.2,HSF2 (HSTF2),,hsf2
+3.4.1.0.3,HSF4 (HSTF4),,hsf4
+3.4.1.0.4,HSF5 (HSTF5),,hsf5
+3.4.1.0.6,"HSFY1 (HSFY2, HSF2L)",,hsfy2
+3.4.1.0.7,HSF3,,hsf3
+3.5,Class: Tryptophan cluster factors,,
+3.5.1,Family: Myb/SANT domain factors,,
+3.5.1.1,Subfamily: Myb-like factors,CAGTTG,
+3.5.1.1.1,c-Myb,,
+3.5.1.1.2,A-Myb (Myb-L1),,mybl1
+3.5.1.1.3,B-Myb (Myb-L2),,mybl2
+3.5.1.1.4,CDC5L,,cdc5l
+3.5.1.1.5,SNAPc4 (PTFa),,snapc4
+3.5.1.2,Subfamily: NCoR-like factors,,
+3.5.1.2.1,NCoR1,,ncor1
+3.5.1.2.2,NCoR2,,ncor2
+3.5.1.2.3,RCoR1,,rcor1
+3.5.1.2.4,RCoR2,,rcor2
+3.5.1.2.5,RCoR3,,rcor3
+3.5.1.3,Subfamily: MIER-like factors,,
+3.5.1.3.1,MIER1,,mier1
+3.5.1.3.2,MIER2,,mier2
+3.5.1.3.3,MIER3,,mier3
+3.5.1.3.4,MTA1 =2.2.1.2.5,,
+3.5.1.3.5,MTA2 (MTA1-L1) =2.2.1.2.6,,mta2
+3.5.1.3.6,MTA3 =2.2.1.2.7,,
+3.5.1.3.7,"RERE (ARG, ARP, ATN1L) =2.2.1.2.4",,rere
+3.5.1.3.8,DMAP1,,dmap1
+3.5.1.3.9,"TRERF1 (Rapa, TReP-132) =2.3.4.20.1",,trerf1
+3.5.1.3.10,ZNF541 =2.3.4.20.2,,
+3.5.1.3.11,CRAMP1L (HN1L),,hn1l
+3.5.1.3.12,ELMSAN1 (C14orf43),,elmsan1
+3.5.1.4,Subfamily: DNAJC-like factors,,
+3.5.1.4.1,DNAJC1,,dnajc1
+3.5.1.4.2,DNAJC2 (ZRF1),,dnajc2
+3.5.1.5,Subfamily: SMARCA-like factors,,
+3.5.1.5.1,SMARCA1 (SNF2L),,smarca1
+3.5.1.5.2,SMARCA5 (SNF2H),,smarca5
+3.5.1.6,Subfamily: TADA2-like factors,,
+3.5.1.6.1,"TAD-2a(TADA2A, ADA2-like)",,tada2a
+3.5.1.6.2,"TAD-2b(TADA2B, ADA2-b)",,tada2b
+3.5.1.6.3,SMARCC1 (BAF155),,smarcc1
+3.5.1.6.4,SMARCC2 (BAF170),,smarcc2
+3.5.1.7,Subfamily: DMTF-like factors,CCCGGATGT,
+3.5.1.7.1,DMTF1,,dmtf1
+3.5.2,Family: Ets-related factors,GGAAG,
+3.5.2.1,Subfamily: Ets-like factors,CCGGAAG,
+3.5.2.1.1,c-Ets-1,,
+3.5.2.1.2,c-Ets-2,,
+3.5.2.1.3,ETV2,,etv2
+3.5.2.1.4,"GABPa(E4TF1-60, NRSF-2a)",,gabpa
+3.5.2.1.5,Fli-1,,fli1
+3.5.2.1.6,ERG,,erg
+3.5.2.1.7,FEV (Pet-1),,fev
+3.5.2.1.8,ETV3 (PE-1),,etv3
+3.5.2.1.10,ERF,,erf
+3.5.2.2,Subfamily: Elk-like factors,CCGGAAG,
+3.5.2.2.1,Elk-1,,elk1
+3.5.2.2.2,Elk-3 (SAP-2),,elk3
+3.5.2.2.3,Elk-4 (SAP-1),,elk4
+3.5.2.2.4,ETV1,,etv1
+3.5.2.2.5,ETV4 (E1A-F),,etv4
+3.5.2.2.6,ETV5,,etv5
+3.5.2.3,Subfamily: Elf-1-like factors,CCGGAAAT,
+3.5.2.3.1,Elf-1,,elf1
+3.5.2.3.2,Elf-2 (NERF),,elf2
+3.5.2.3.3,"Elf-4 (ELFR, MEF)",,elf4
+3.5.2.4,Subfamily: EHF-like factors,CCGGAAGT,
+3.5.2.4.1,EHF (ESE-3),,ehf
+3.5.2.4.2,Elf-3 (ESE-1),,elf3
+3.5.2.4.3,Elf-5 (ESE-2),,elf5
+3.5.2.5,Subfamily: Spi-like factors,AGAGGAAG,
+3.5.2.5.1,PU.1 (Spi-1),,spi1
+3.5.2.5.2,Spi-B,,spib
+3.5.2.5.3,Spi-C,,spic
+3.5.2.6,Subfamily: ETV6-like factors,CCCGGAAGT,
+3.5.2.6.1,ETV6 (Tel-1),,etv6
+3.5.2.7,Subfamily: SPDEF-like factors,CCGGATGT,
+3.5.2.7.1,SPDEF (PSE),,spdef
+3.5.3,Family: Interferon-regulatory factors,AAGTGAA,
+3.5.3.0.1,IRF-1,,irf1
+3.5.3.0.2,IRF-2,,irf2
+3.5.3.0.3,IRF-3,,irf3
+3.5.3.0.4,"IRF-4 (LSIRF, NF-EM5, MUM1, Pip)",,pip
+3.5.3.0.5,IRF-5,,irf5
+3.5.3.0.6,IRF-6,,irf6
+3.5.3.0.7,IRF-7,,irf7
+3.5.3.0.8,IRF-8 (ICSBP1),,irf8
+3.5.3.0.9,IRF-9 (ISGF-3g),,irf9
+3.6,Class: TEA domain factors,,
+3.6.1,Family: TEF-1-related factors,CATTCC,
+3.6.1.0.1,"TEF-1 (TEAD-1, TCF-13)",,tead1
+3.6.1.0.2,"TEF-3 (TEAD-4, TCF-13L1, Tefr1)",,tead4
+3.6.1.0.3,TEF-4 (TEAD-2),,tead2
+3.6.1.0.4,"TEF-5 (TEAD-3, TEAD5)",,tead3
+3.7,Class: ARID domain factors,,
+None,,,
+3.7.1,Family: ARID-related factors,,
+3.7.1.1,Subfamily: ARID1,,
+3.7.1.1.1,"ARID1A (BAF250, BAF250A, OSA1, SMARCF1)",,arid1a
+3.7.1.1.2,"ARID1B (BAF250, BAF250A, OSA1, SMARCF1)",,arid1b
+3.7.1.2,Subfamily: ARID2,,
+3.7.1.2.1,ARID2 (BAF200),,arid2
+3.7.1.3,Subfamily: ARID3,,
+3.7.1.3.1,"ARID3A (Bright, DRIL1, DRIL3, DRX, E2FBP1)",,arid3a
+3.7.1.3.2,"ARID3B (BDP, DRIL2)",,arid3b
+3.7.1.3.3,ARID3C,,arid3c
+3.7.1.4,Subfamily: ARID4,,
+3.7.1.4.1,"ARID4A (RBBP1, RBP1)",,rbp1
+3.7.1.4.2,"ARID4B (BRCAA1, RBBP1L1, RBP1L1, SAP180)",,arid4b
+3.7.1.5,Subfamily: ARID5,,
+3.7.1.5.1,ARID5A (MRF1),,arid5a
+3.7.1.5.2,"ARID5B (DESRT, MRF2)",,arid5b
+3.7.1.6,Subfamily: JARID1,,
+3.7.1.6.1,"JARID1A (KDM5A, RBBP2, RBP2)",,rbp2
+3.7.1.6.2,"JARID1B (KDM5B, PLU1, RBBP2H1)",,kdm5b
+3.7.1.6.3,"JARID1C (KDM5C, DXS1272E, SMCX, XE169)",,kdm5c
+3.7.1.6.4,"JARID1D (KDM5D, HY, HYA, SMCY)",,kdm5d
+3.7.1.7,Subfamily: JARID2,,
+3.7.1.7.1,"JARID2 (Jumonji, JMJ)",,jarid2
+None,,,
+None,,,
+4,Superclass: Other all-a-helical DNA-binding domains,,
+4.1,Class: High-mobility group (HMG) domain factors,,
+4.1.1,Family: SOX-related factors,ACAA,
+4.1.1.1,Subfamily: Group A,AAACAAA,
+4.1.1.1.1,SRY (TDF),,sry
+4.1.1.2,Subfamily: Group B,AACAAAG,
+4.1.1.2.1,SOX-1,,sox1
+4.1.1.2.2,SOX-2,,sox2
+4.1.1.2.3,SOX-3,,sox3
+4.1.1.2.4,SOX-14 (SOX-28),,sox14
+4.1.1.2.5,SOX-21,,sox21
+4.1.1.3,Subfamily: Group C,AACAAAGG,
+4.1.1.3.1,SOX-4 (IRE-ABP),,sox4
+4.1.1.3.2,SOX-11,,sox11
+4.1.1.3.3,SOX-12 (SOX-22),,sox12
+4.1.1.4,Subfamily: Group D,AACAAT,
+4.1.1.4.1,SOX-5,,sox5
+4.1.1.4.2,SOX-6,,sox6
+4.1.1.4.3,SOX-13,,sox13
+4.1.1.5,Subfamily: Group E,AAACAAAGG,
+4.1.1.5.1,SOX-8,,sox8
+4.1.1.5.2,SOX-9,,sox9
+4.1.1.5.3,SOX-10,,sox10
+4.1.1.6,Subfamily: Group F,AACAAT,
+4.1.1.6.1,SOX-7,,sox7
+4.1.1.6.2,SOX-17,,sox17
+4.1.1.6.3,SOX-18,,sox18
+4.1.1.7,Subfamily: Group G,,
+4.1.1.7.1,SOX-15,,sox15
+4.1.1.8,Subfamily: Group H,GGACAATGG,
+4.1.1.8.1,SOX-30,,sox30
+4.1.1.9,Subfamily: Further Sox-related factors,TTCATTCAA,
+4.1.1.9.1,CIC [1],,cic
+4.1.1.9.2,HBP-1 [1],,hbp1
+4.1.1.9.3,BBX (HBP-2) [1],,bbx
+4.1.2,Family: TOX-related factors,,
+4.1.2.0.1,TOX [1],,tox
+4.1.2.0.2,TOX-2 (GCX-1) [1],,tox2
+4.1.2.0.3,TOX-3 (CAGF9) [1],,tox3
+4.1.2.0.4,TOX-4 (LCP-1) [1],,lcp1
+4.1.2.0.5,SMARCE1 [1],,smarce1
+4.1.2.0.6,HMG20A (HMGX1) [1],,hmg20a
+4.1.2.0.7,HMG20B (HMGX2) [1],,hmg20b
+4.1.2.0.8,HMGXB3 (SMF) [1],,hmgxb3
+4.1.3,Family: TCF-7-related factors,TTCAAAG,
+4.1.3.0.1,TCF-7 (TCF-1) [1],,tcf7
+4.1.3.0.2,TCF-7L1 (TCF-3) [1],,tcf3
+4.1.3.0.3,TCF-7L2 (TCF-4) [1],,tcf4
+4.1.3.0.4,LEF-1 (TCF-1a) [1],,lef1
+4.1.3.0.5,"TAF-1 (TAF-2A, TAF(II)250) [1]",,taf1
+4.1.4,Family: PBRM1-related factors,,
+4.1.4.0.1,"PB-1 (PBRM1, BAF180) [1]",,pbrm1
+4.1.4.0.2,HMGXB4 (HMG2L1) [1],,hmgxb4
+4.1.5,Family: WHSC1-related factors,GGCATTGGAAA,
+4.1.5.0.1,WHSC1 (TRX-5) [1],,whsc1
+4.1.5.0.2,SSRP1 [1],,ssrp1
+4.1.6,Family: UBF-related factors,,
+4.1.6.1,Subfamily: UBF-related factors,,
+4.1.6.1.1,UBF [6],,
+4.1.6.2,Subfamily: UBF-like proteins,,
+4.1.6.2.1,UBTFL1 [2],,ubtfl1
+4.1.7,Family: TFAM,,
+4.1.7.0.1,"TFAM (mtTFA, MtTF1, TCF6, TCF6L2) [2]",,tfam
+4.2,Class: Heteromeric CCAAT-binding factors,,
+4.2.1,Family: Heteromeric CCAAT-binding factors,CCAAT,
+4.2.1.0.1,"NF-YA (CP1A, CBF-B)",,cbfb
+4.2.1.0.2,"NF-YB (CP1B, CBF-A)",,nfyb
+4.2.1.0.3,NF-YC,,nfyc
+None,,,
+None,,,
+5,Superclass:a-Helices exposed byb-structures,,
+5.1,Class: MADS box factors,,
+5.1.1,Family: Regulators of differentiation,CTAAAAATAG,
+5.1.1.1,Subfamily: MEF-2,CTAAAAATAG,
+5.1.1.1.1,MEF-2A,,mef2a
+5.1.1.1.2,"MEF-2B (RSRFR2, xMEF2)",,mef2b
+5.1.1.1.3,MEF-2C,,mef2c
+5.1.1.1.4,MEF-2D,,mef2d
+5.1.2,Family: Responders to external signals (SRF/RLM1),CCATATATGG,
+5.1.2.0.1,SRF,,srf
+5.2,Class: E2-related factors,,
+5.2.1,Family: E2,,
+5.3,Class: SAND domain factors,,
+5.3.1,Family: AIRE,ATTGGTTATATTGGTTA,
+5.3.1.0.1,AIRE,,aire
+5.3.2,Family: DEAF,TTTCCG,
+5.3.2.0.1,DEAF1,,deaf1
+5.3.3,Family: GMEB,CTTCTGTATGAGCGCCAGTAT,
+5.3.3.1,Subfamily: GMEB,,
+5.3.3.1.1,GMEB-1,,gmeb1
+5.3.3.1.2,GMEB-2,,gmeb2
+5.3.4,Family: Sp110,,
+5.3.4.0.1,Sp110,,sp110
+5.3.5,Family: Sp140/Sp100,,
+5.3.5.1,Subfamily: Sp140-like factors,,
+5.3.5.1.1,Sp140,,sp140
+5.3.5.2,Subfamily: Sp100,,
+5.3.5.2.1,Sp100,,sp100
+None,,,
+None,,,
+6,Superclass: Immunoglobulin fold,,
+6.1,Class: Rel homology region (RHR) factors,,
+6.1.1,Family: NF-kappaB-related factors,,
+6.1.1.1,Subfamily: NF-kappaB p50 subunit-like factors,GGGAATTTCC,
+6.1.1.1.1,NF-kB p105 (NFKB1),,nfkb1
+6.1.1.1.2,NF-kB p100 (NFKB2),,nfkb2
+6.1.1.2,Subfamily: NF-kappaB p65 subunit-like factors,GAAAATTTCC,
+6.1.1.2.1,NF-kB p65 (RelA),,rela
+6.1.1.2.2,RelB (I-Rel),,relb
+6.1.1.2.3,c-Rel,,
+6.1.2,Family: Ankyrin domain-only factors,,
+6.1.2.1,Subfamily: IkB-related factors,,
+6.1.2.1.1,IkBa,,
+6.1.2.1.2,IkBb,,
+6.1.2.1.3,IkBdelta,,
+6.1.2.1.4,IkBepsilon,,
+6.1.2.1.5,IkBz(MAIL),,
+6.1.2.1.6,IkBR (Tonsl),,tonsl
+6.1.2.1.7,IkBL,,
+6.1.2.1.8,BCL-3,,bcl3
+6.1.2.2,Subfamily: RelA-associated inhibitor,,
+6.1.2.2.1,RAI (iASPP),,
+6.1.3,Family: NFAT-related factors,ATGGAAA,
+6.1.3.0.1,NFATc1,,nfatc1
+6.1.3.0.2,"NFATc2 (NFATp, NFAT1)",,nfatc2
+6.1.3.0.3,"NFATc3 (NFATx, NFAT4)",,nfatc3
+6.1.3.0.4,NFATc4 (NFAT3),,nfatc4
+6.1.3.0.5,NFAT5 (TonEBP),,nfat5
+6.1.4,Family: CSL-related factors,CGTGGGAA,
+6.1.4.1,Subfamily: M,CGTGGGAA,
+6.1.4.1.1,RBP-Jk,,
+6.1.4.1.2,RBP-JL,,rbpjl
+6.1.5,Family: Early B-Cell Factor-related factors,TCCCTAGGGA,
+6.1.5.0.1,EBF1 (COE1),,ebf1
+6.1.5.0.2,EBF2 (COE2),,ebf2
+6.1.5.0.3,EBF3 (COE3),,ebf3
+6.1.5.0.4,EBF4 (COE4),,ebf4
+6.2,Class: STAT domain factors,,
+6.2.1,Family: STAT factors,TTCCCGGAA,
+6.2.1.0.1,STAT1,,stat1
+6.2.1.0.2,STAT2,,stat2
+6.2.1.0.3,STAT3,,stat3
+6.2.1.0.4,STAT4,,stat4
+6.2.1.0.5,STAT5A,,stat5a
+6.2.1.0.6,STAT5B,,stat5b
+6.2.1.0.7,STAT6,,stat6
+6.3,Class: p53 domain factors,,
+6.3.1,Family: p53-related factors,GGACATGCCCGGGCATGTCC,
+6.3.1.0.1,p53,,
+6.3.1.0.2,p63,,
+6.3.1.0.3,p73,,
+6.4,Class: Runt domain factors,,
+6.4.1,Family: Runt-related factors,TGTGGT,
+6.4.1.0.1,"Runx2 (PEBP2aA, CBF-a1)",,runx2
+6.4.1.0.2,"Runx1 (PEBP2aB, CBF-a2, AML-1)",,runx1
+6.4.1.0.3,"Runx3 (PEBP2aC, CBF-a3, AML-2)",,runx3
+6.5,Class: T-Box factors,,
+6.5.1,Family: Brachyury-related factors,TCACACCTAGGTGTGAAATT,
+6.5.1.0.1,T (Brachyury),,t
+6.5.1.0.2,TBX19,,tbx19
+6.5.2,Family: TBrain-related factors,AGGTGTGAA,
+6.5.2.0.1,TBR-1,,tbr1
+6.5.2.0.2,TBR-2 (EOMES),,eomes
+6.5.2.0.3,TBX21 (T-bet),,tbx21
+6.5.3,Family: TBX1-related factors,,
+6.5.3.0.1,TBX1,,tbx1
+6.5.3.0.2,TBX10 (TBX7),,tbx10
+6.5.3.0.3,TBX15 (TBX14),,tbx15
+6.5.3.0.4,TBX18,,tbx18
+6.5.3.0.5,TBX20,,tbx20
+6.5.3.0.6,TBX22,,tbx22
+6.5.4,Family: TBX2-related factors,AGGTGTGAG,
+6.5.4.0.1,TBX2,,tbx2
+6.5.4.0.2,TBX3,,tbx3
+6.5.4.0.3,TBX4,,tbx4
+6.5.4.0.4,TBX5,,tbx5
+6.5.5,Family: TBX6-related factors,AATTTCACACCTAGGTGTGAAATT,
+6.5.5.0.1,TBX6,,tbx6
+6.5.5.0.2,MGA (MAD5) =1.2.6.7.4,,mga
+6.6,Class: NDT80 domain factors,,
+6.6.1,Family: Myelin gene regulatory factor-related factors,,
+6.6.1.0.1,"Myelin gene regulatory factor (Myrf, MRF, C11orf9)",,myrf
+6.7,Class: Grainyhead domain factors,,
+6.7.1,Family: Grainyhead-related factors,,
+6.7.1.1,Subfamily: GRH-like proteins,,
+6.7.1.1.1,"GRH-L1 (CP2-L2, LBP-32, MGR)",,grhl1
+6.7.1.1.2,GRH-L2 (CP2-L3),,grhl2
+6.7.1.1.3,GRH-L3 (CP2-L4),,grhl3
+6.7.2,Family: CP2-related factors,GCACAAACCAG,
+6.7.2.0.1,"CP2 (LSF, SEF)",,
+6.7.2.0.2,"CP2-L1 (LBP-9, CRTR-1)",,
+6.7.2.0.3,"UBP-1 (LBP-1, SEF, CP2b)",,ubp1
+None,,,
+None,,,
+7,Superclass:b-Hairpin exposed by ana/b-scaffold,,
+7.1,Class: SMAD/NF-1 DNA-binding domain factors,,
+7.1.1,Family: SMAD factors,GTCTAGAC,
+7.1.1.1,Subfamily: Regulatory Smads (R-Smad),,
+7.1.1.1.1,SMAD1,,smad1
+7.1.1.1.2,SMAD2,,smad2
+7.1.1.1.3,SMAD3,,smad3
+7.1.1.1.4,SMAD5,,smad5
+7.1.1.1.5,SMAD9 (SMAD8),,smad9
+7.1.1.2,Subfamily: Co-activating Smads (Co-Smad),,
+7.1.1.2.1,SMAD4,,smad4
+7.1.1.3,Subfamily: Repressor-Smads (I-Smad),,
+7.1.1.3.1,SMAD6,,smad6
+7.1.1.3.2,SMAD7,,smad7
+7.1.2,Family: Nuclear factor 1,TTGGCTATATGCCAA,
+7.1.2.0.1,NF-1A (NF-IA),,nfia
+7.1.2.0.2,NF-1B,,
+7.1.2.0.3,NF-1C,,
+7.1.2.0.4,NF-1X,,
+7.2,Class: GCM domain factors,,
+7.2.1,Family: GCM factors,,
+7.2.1.0.1,GCMa (GCM1),,gcm1
+7.2.1.0.2,GCMb (GCM2),,gcm2
+8,Superclass:b-Sheet binding to DNA,,
+8.1,Class: TATA-binding proteins,,
+8.1.1,Family: TBP-related factors,TATAAA),
+8.1.1.0.1,TBP,,tbp
+8.1.1.0.2,TBP-L1 (TRF2),,tbpl1
+8.1.1.0.3,TBP-L2 (TRF3),,tbpl2
+8.2,Class: A.T hook factors,,
+8.2.1,Family: HMGA factors,GGAAATT,
+8.2.1.0.1,HMGA1 (HMGI(Y)),,hmga1
+8.2.1.0.2,HMGA2 (HMGI-C),,hmga2
+9,Superclass:b-Barrel DNA-binding domains,,
+9.1,Class: Cold-shock domain factors,,
+9.1.1,Family: Dbp factors,CCAATCAG,
+9.1.1.1,Subfamily: A (DbpA-like),,
+9.1.1.1.1,"DbpA (YBX3, CSDA)",,ybx3
+9.1.1.2,Subfamily: B (DbpB/YB-1-like),,
+9.1.1.2.1,"YB-1 (DbpB, YBX1)",,ybx1
+9.1.1.3,Subfamily: C (FRG Y2-like),,
+9.1.1.3.1,"YBX2 (DbpC, MSY2, FRG Y2)",,ybx2
+0,Superclass: Yet undefined DNA-binding domains,,
+0.1,Class: AXUD/CSRNP domain factors,,
+0.1.1,Family: CSRNP factors,AGAGTG,
+0.1.1.0.1,"CSRNP-1 (AXUD1, TAIP3)",,csrnp1
+0.1.1.0.2,CSRNP-2 (TAIP12),,csrnp2
+0.1.1.0.3,CSRNP-3 (TAIP2),,csrnp3
+0.2,Class: NonO domain factors,,
+0.2.1,Family: NonO-related factors,,
+0.2.1.0.1,"NONO (NMT55, p54(nrb), NRB54)",,nono
+0.2.1.0.2,SFPQ (PSF),,sfpq
+0.2.1.0.3,"PSPC1 (PSP1, Paraspeckle component 1)",,pspc1
+0.3,Class: Leucine-rich repeat flightless-interacting proteins,,
+0.3.1,Family: LRRFIP factors,AGCCCCCGGCG,
+0.3.1.0.1,"LRRFIP1 (GCF2, TRIP)",,lrrfip1
+0.3.1.0.2,LRRFIP2,,lrrfip2
+0.4,Class: NFX1-type putative zinc finger factors,,
+0.4.1,Family: NFX1,CCTAGCAACAGATG,
+0.4.1.0.1,NFX1 (NFX2),,nfx1
+0.4.1.0.2,NFXL1 (OZFP),,nfxl1
+0.4.1.0.3,ZNFX1,,znfx1
+0,Class: Uncharacterized,,
+0.0.1,Family: Nuclear localized protein 1,,
+0.0.1.0.1,NULP1 (TCF25),,tcf25
+0.0.2,Family: PHF5,,
+0.0.2.0.1,"PHF5A (Ini, SF3b14b)",,phf5a
+0.0.3,Family: RFXANK,CAGTTGCCTAGCAACTA,
+0.0.3.0.1,"RFXANK (ANKRA1, RFXB, Tvl-1)",,rfxank
+0.0.4,Family: RFXAP,CAGTTGCCTAGCAACTA,
+0.0.4.0.1,RFXAP,,rfxap
+0.0.5,Family: PUR,TGGCCAGGG,
+0.0.5.0.1,"Pur-a(PURA, PUR1)",,pura
+0.0.5.0.2,Pur-b(PURB),,purb
+0.0.5.0.3,Pur-g(PURG),,purg
+0.0.6,Family: NRF,CGCATGCGCA,
+0.0.6.0.1,NRF-1 (a-pal),,nrf1
